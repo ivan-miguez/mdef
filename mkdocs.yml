@@ -1,11 +1,11 @@
 # Replace the text below to customize your site
-site_name: Ivan Garcia - MDEF & Fab Lab Barcelona
+site_name: IHG # - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_author: Ivan Hunga Garcia
+copyright: # Copyleft 2023 "Student Name" - GNU Free Documentation License
+repo_name: 'IHG — MDEF'
+site_url: # https://fablabbcn.github.io/mdef-template/
+repo_url: # 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
