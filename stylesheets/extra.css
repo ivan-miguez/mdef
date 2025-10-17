@@ -11,6 +11,11 @@
 
 }
 
+body {
+  background-color: rgb(222, 222, 209);
+  font-family: "Averia Serif Libre", serif;
+}
+
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
