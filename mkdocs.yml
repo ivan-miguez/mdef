@@ -19,6 +19,9 @@ nav:
           - AoWS: term1/02-Atlas of Weak Signals.md
           - Embodied Criticism: term1/03-Embodied Criticism.md
           - Living With My Own Ideas: term1/04-Living With My Own Ideas.md
+              - Prototype no.1: term1/04-Living With My Own Ideas/PT01.md
+              - Prototype no.2: term1/04-Living With My Own Ideas/PT02.md
+              - Prototype no.3: term1/04-Living With My Own Ideas/PT03.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
@@ -45,8 +48,8 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: black
-    accent: black
+    primary: grey
+    accent: grey
   font:
     # See available fonts at https://fonts.google.com/
     text: Averia Serif Libre
