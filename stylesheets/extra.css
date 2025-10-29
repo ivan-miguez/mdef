@@ -1,13 +1,13 @@
 :root>* {
 
-    --md-footer-bg-color: rgb(222, 222, 209);
-    --md-footer-fg-color: rgb(222, 222, 209);
-    --md-footer-bg-color--dark: rgb(222, 222, 209);
-    --md-footer-fg-color--lighter:  rgb(222, 222, 209);
-    --md-footer-fg-color--light:  rgb(222, 222, 209);
+    --md-footer-bg-color: grey;
+    --md-footer-fg-color: grey;
+    --md-footer-bg-color--dark: grey;
+    --md-footer-fg-color--lighter:  grey;
+    --md-footer-fg-color--light:  grey;
     --mdc-typography-headline6-font-family: "Averia Serif Libre", serif;
     --mdc-typography-font-family: "Averia Serif Libre", serif;
-    --md-typeset-a-color: rgb(12, 240, 190);
+    --md-typeset-a-color: rgb(222, 222, 209);
 
 }
 
