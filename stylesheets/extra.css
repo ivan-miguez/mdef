@@ -12,14 +12,14 @@
 }
 
 .md-header {
-  background-color: rgb(222, 222, 209);  /*  */
-  border-color: rgb(222, 222, 209);      /*  */
+  background-color: grey;  /*  */
+  /* border-color: rgb(222, 222, 209);      /*  */
 }
 
 
 body {
   background-color: grey;
-  font-family: "Averia Serif Libre", serif;
+  font-family: "Averia Serif Libre", serif; color: rgb(222, 222, 209);
 }
 
 
