@@ -2,7 +2,7 @@
 site_name: IHG # - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Ivan Hunga Garcia
-copyright: # Copyleft 2023 "Student Name" - GNU Free Documentation License
+copyright: # Copyleft 2023 "Ivan Garcia" - GNU Free Documentation License
 repo_name: 'IHG — MDEF'
 site_url: # https://fablabbcn.github.io/mdef-template/
 repo_url: # 'https://github.com/fablabbcn/mdef-template'
@@ -11,12 +11,14 @@ repo_url: # 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
+  - Biotic Skin:
+      - Process: project/project.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - Embodied Criticism: term1/03-Embodied Criticism.md
+          - Living With My Own Ideas: term1/04-Living With My Own Ideas.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
@@ -49,6 +51,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Averia Serif Libre
     code: Cutive Mono
+    color: rgb(222, 222, 209)
   icon:
     logo: material/memory
   favicon: images/favicon.svg
