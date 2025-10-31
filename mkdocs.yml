@@ -17,12 +17,8 @@ nav:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
-          - Embodied Criticism: term1/03-Embodied Criticism.md
-          - "Living With My Own Ideas":
-              - "Overview": term1/04-Living With My Own Ideas.md
-              - "Prototype no.1": term1/04-Living With My Own Ideas/PT01.md
-              - "Prototype no.2": term1/04-Living With My Own Ideas/PT02.md
-              - "Prototype no.3": term1/04-Living With My Own Ideas/PT03.md
+          # - Embodied Criticism: term1/03-Embodied Criticism.md  # removed: file not present
+          - "Living with your own ideas": term1/Living with your own ideas.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
@@ -55,7 +51,6 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Averia Serif Libre
     code: Cutive Mono
-    color: rgb(222, 222, 209)
   icon:
     logo: material/memory
   favicon: images/favicon.svg
