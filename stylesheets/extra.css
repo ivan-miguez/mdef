@@ -22,6 +22,11 @@ body {
   font-family: "Averia Serif Libre", serif; color: rgb(222, 222, 209);
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(222, 222, 209) 
+}
+
+
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
