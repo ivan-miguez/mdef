@@ -1,28 +1,46 @@
-:root>* {
-
-    /* Grey from footer - use same for all backgrounds (header and body) */
-    --md-footer-bg-color: #9e9e9e;
+:root {
+    /* Use footer color as base for all backgrounds */
+    --bg-base: #9e9e9e;
+    
+    /* Footer - use base color */
+    --md-footer-bg-color: var(--bg-base);
     --md-footer-fg-color: rgb(222, 222, 209);
     --md-footer-bg-color--dark: #616161;
     --md-footer-fg-color--lighter: rgb(222, 222, 209);
     --md-footer-fg-color--light: rgb(222, 222, 209);
+    
+    /* Typography */
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    
     /* Text color - rgb(222,222,209) */
     --md-default-fg-color: rgb(222, 222, 209);
     --md-typeset-color: rgb(222, 222, 209);
+    
     /* Link color - rgb(222,222,209) normal, black on hover */
     --md-typeset-a-color: rgb(222, 222, 209);
-    /* Background grey - matching header grey (Material grey-500) */
-    --md-default-bg-color: #9e9e9e;
+    
+    /* Background grey - use base color everywhere */
+    --md-default-bg-color: var(--bg-base);
     --md-code-bg-color: #bdbdbd;
-    /* Header background - ensure it matches page */
-    --md-primary-fg-color: #9e9e9e;
-    --md-primary-bg-color: #9e9e9e;
+    
+    /* Header - use base color */
+    --md-primary-fg-color: var(--bg-base);
+    --md-primary-bg-color: var(--bg-base);
+    
     /* Header text color - match body font rgb(222,222,209) */
     --md-primary-fg-color--light: rgb(222, 222, 209);
     --md-primary-fg-color--dark: rgb(222, 222, 209);
+}
 
+/* Force all backgrounds to use base color */
+[data-md-color-scheme] {
+    --md-default-bg-color: var(--bg-base);
+}
+
+[data-md-color-primary="grey"] {
+    --md-primary-fg-color: var(--bg-base);
+    --md-primary-bg-color: var(--bg-base);
 }
 
 /* Header styling - match grey and text color */
@@ -207,11 +225,31 @@ body {
     padding: 20px 0;
 }
 
-/* Ensure all backgrounds match footer color #9e9e9e */
+/* Ensure all backgrounds match footer color using CSS cascade */
+html {
+    background-color: var(--bg-base);
+}
+
+body {
+    background-color: var(--bg-base);
+}
+
 .md-container {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 .md-main {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
+}
+
+.md-header {
+    background-color: var(--bg-base);
+}
+
+.md-sidebar--primary {
+    background-color: var(--bg-base);
+}
+
+.md-sidebar--secondary {
+    background-color: var(--bg-base);
 }
