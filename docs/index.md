@@ -1,5 +1,5 @@
-<div style="max-width: calc(100vw - 4rem); overflow: auto; margin: 0 auto;">
-<pre style="color: #ffffff; background: transparent; font-family: 'Courier New', Consolas, monospace; line-height: 0.63; font-size: 7.5px; letter-spacing: 0px; white-space: pre; margin: 2rem; -webkit-font-smoothing: antialiased;">****************************************************************************************************************************************************************
+<div style="max-width: 100%; overflow: hidden; margin: 0; padding: 0;">
+<pre style="color: #ffffff; background: transparent; font-family: 'Courier New', Consolas, monospace; line-height: 0.63; font-size: clamp(3px, 0.78vw, 7.5px); letter-spacing: 0px; white-space: pre; margin: 0; padding: 2rem 1rem; -webkit-font-smoothing: antialiased; transform-origin: top left;">****************************************************************************************************************************************************************
 ****************************************************************************************************************************************************************
 ****************************************************************************************************************************************************************
 ****************************************************************************************************************************************************************

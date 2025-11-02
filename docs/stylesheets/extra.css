@@ -207,22 +207,33 @@ body {
     display: none;
 }
 
-/* Make homepage content full width when TOC is hidden */
+/* Make homepage content full width when TOC is hidden and prevent scroll */
 .md-content article:has(div > pre) {
     max-width: 100%;
     margin-right: 0;
+    overflow: hidden;
 }
 
+/* Ensure ASCII art container fits viewport without scroll */
 .md-content article:has(div > pre) > div {
+    width: 100%;
     max-width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-/* Ensure ASCII art takes full width */
 .md-content article:has(div > pre) pre {
     width: 100%;
     max-width: 100%;
     margin: 0;
-    padding: 20px 0;
+    padding: 2vh 1vw;
+    font-size: clamp(3px, 0.78vw, 7.5px);
+    overflow: hidden;
+    display: block;
 }
 
 /* Ensure all backgrounds match footer color using CSS cascade */
@@ -253,3 +264,4 @@ body {
 .md-sidebar--secondary {
     background-color: var(--bg-base);
 }
+
