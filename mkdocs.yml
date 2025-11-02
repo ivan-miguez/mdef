@@ -4,8 +4,8 @@ site_description: Master in Design for Emergent Futures
 site_author: Ivan Hunga Garcia
 copyright: # Copyleft 2023 "Ivan Garcia" - GNU Free Documentation License
 repo_name: 'IHG — MDEF'
-site_url: # https://fablabbcn.github.io/mdef-template/
-repo_url: # 'https://github.com/fablabbcn/mdef-template'
+site_url: https://mdef.ivanhungagarcia.com
+repo_url: 'https://github.com/ivan-miguez/mdef'
 
 
 nav:
