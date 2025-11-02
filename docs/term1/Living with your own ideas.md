@@ -55,7 +55,7 @@ I would never know what an earring is for, since I lack the volume of the ears. 
 
 Subject
 
-![](../images/Living with our own ideas/prosthesis 3) 
+![](../images/Living with our own ideas/prosthesis 3.png) 
 
 I took the chance of being a subject of an investigation to strip away my prosthesis of convenience and privacy. As the hour passed, my physical presence was a decoy to the presence carried online. 
 
