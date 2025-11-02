@@ -53,7 +53,7 @@ I would never know what an earring is for, since I lack the volume of the ears. 
 
 ## Prosthesis no.3
 
-### Subject
+###Subject
 
 ![](images/living with our own ideas/prosthesis 3.png) 
 
