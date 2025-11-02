@@ -27,24 +27,24 @@
 
 /* Header styling - match grey and text color */
 .md-header {
-    background-color: #9e9e9e !important;
-    color: rgb(222, 222, 209) !important;
+    background-color: #9e9e9e;
+    color: rgb(222, 222, 209);
 }
 
 .md-header__title {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 .md-header__button {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 .md-header__topic {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 .md-nav__title {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 /* Text color for all content - rgb(222,222,209) */
@@ -70,28 +70,28 @@ body {
 
 /* Link styles - rgb(222,222,209) normal, black on hover */
 .md-typeset a {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
     transition: color 0.2s ease;
 }
 
 .md-typeset a:hover {
-    color: rgb(0, 0, 0) !important;
+    color: rgb(0, 0, 0);
 }
 
 .md-nav__link {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 .md-nav__link:hover {
-    color: rgb(0, 0, 0) !important;
+    color: rgb(0, 0, 0);
 }
 
 .md-footer__link {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 .md-footer__link:hover {
-    color: rgb(0, 0, 0) !important;
+    color: rgb(0, 0, 0);
 }
 
 /* Navigation menu text color */
@@ -101,11 +101,11 @@ body {
 
 /* Footer text color */
 .md-footer {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 .md-footer__inner {
-    color: rgb(222, 222, 209) !important;
+    color: rgb(222, 222, 209);
 }
 
 .md-main__inner {
@@ -131,11 +131,11 @@ body {
 
 /* Footer background - matching header grey */
 .md-footer {
-    background-color: #9e9e9e !important;
+    background-color: #9e9e9e;
 }
 
 .md-footer__inner {
-    background-color: #9e9e9e !important;
+    background-color: #9e9e9e;
 }
 
 
@@ -147,11 +147,11 @@ body {
     display: none;
   }
 
-  .md-typeset .md-button--primary {
+.md-typeset .md-button--primary {
     border-width: 1px;
     border-color: rgb(219, 219, 219);
     border-radius: 4px;
-  }
+}
 
 .cardContent {
   padding: 16px;
@@ -163,19 +163,19 @@ body {
     font-weight: 500;
 }
 
-/* Hide h2 headings in about page body but keep them in TOC - use visibility hidden instead of display none */
+/* Hide h2 headings in about page body but keep them in TOC */
 .md-typeset article h2 {
-    visibility: hidden !important;
-    height: 0 !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    line-height: 0 !important;
-    font-size: 0 !important;
-    overflow: hidden !important;
-    position: absolute !important;
-    width: 1px !important;
-    clip: rect(0, 0, 0, 0) !important;
-    white-space: nowrap !important;
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+    font-size: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
 }
 
 .mdc-typography--body2 {
@@ -191,12 +191,12 @@ body {
 
 /* Make homepage content full width when TOC is hidden */
 .md-content article:has(div > pre) {
-    max-width: 100% !important;
-    margin-right: 0 !important;
+    max-width: 100%;
+    margin-right: 0;
 }
 
 .md-content article:has(div > pre) > div {
-    max-width: 100% !important;
+    max-width: 100%;
 }
 
 /* Ensure ASCII art takes full width */
@@ -209,9 +209,9 @@ body {
 
 /* Ensure all backgrounds match footer color #9e9e9e */
 .md-container {
-    background-color: #9e9e9e !important;
+    background-color: #9e9e9e;
 }
 
 .md-main {
-    background-color: #9e9e9e !important;
+    background-color: #9e9e9e;
 }
