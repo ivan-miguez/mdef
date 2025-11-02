@@ -104,6 +104,21 @@ body {
     color: rgb(0, 0, 0);
 }
 
+/* Active navigation link - black when page is open */
+.md-nav__link--active,
+.md-nav__link[aria-current="page"],
+.md-nav__link[aria-current] {
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+/* Active parent navigation items */
+.md-nav__item--active > .md-nav__link,
+.md-nav__item--active > .md-nav__link--active {
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
 .md-footer__link {
     color: rgb(222, 222, 209);
 }
