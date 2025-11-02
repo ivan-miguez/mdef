@@ -3,9 +3,9 @@
 ## Prosthesis no.1
 
 <div style="display: flex; gap: 10px; align-items: flex-start; margin-bottom: 20px;">
-  <img src="../images/Living with our own ideas/proto 1 pieces.JPG" style="flex: 1; max-width: 100%; height: auto;">
-  <img src="../images/Living with our own ideas/proto 1 unmounted.JPG" style="flex: 1; max-width: 100%; height: auto;">
-  <img src="../images/Living with our own ideas/prototype 1 mounted.JPG" style="flex: 1; max-width: 100%; height: auto;">
+  <img src="images/living with our own ideas/proto 1 pieces.JPG" style="flex: 1; max-width: 100%; height: auto;">
+  <img src="images/living with our own ideas/proto 1 unmounted.JPG" style="flex: 1; max-width: 100%; height: auto;">
+  <img src="images/living with our own ideas/prototype 1 mounted.JPG" style="flex: 1; max-width: 100%; height: auto;">
 </div> 
 
 I find it unfair, everyone has the benefit of feeling my perfume collection except myself. Everytime i try a new fragrance there is an awareness and mindfulness, stimulated by a new scent according to the same surroundings. A fragrance implant, implies an extra accessory as an extension of the human presence. 
@@ -29,11 +29,11 @@ That being said, a microdermal closed with a ceramic female piece allows a stock
 ## Prosthesis no.2
 
 <div style="margin-bottom: 20px;">
-  <img src="../images/Living with our own ideas/proto 2.1.JPG" style="width: 100%; max-width: 100%; height: auto; margin-bottom: 10px;">
+  <img src="images/living with our own ideas/proto 2.1.JPG" style="width: 100%; max-width: 100%; height: auto; margin-bottom: 10px;">
 </div>
 <div style="display: flex; gap: 10px; align-items: flex-start; margin-bottom: 20px;">
-  <img src="../images/Living with our own ideas/proto2.2.JPG" style="flex: 1; max-width: 100%; height: auto;">
-  <img src="../images/Living with our own ideas/prototype 2.3 closeup.JPG" style="flex: 1; max-width: 100%; height: auto;">
+  <img src="images/living with our own ideas/proto2.2.JPG" style="flex: 1; max-width: 100%; height: auto;">
+  <img src="images/living with our own ideas/proto 2.3 closeup.jpg" style="flex: 1; max-width: 100%; height: auto;">
 </div>
 
 A great amount of sparkly things came across my way as I was heading home. From copper thread, to chains, or earrings. I assembled my “Diary of a Crow” with unreclaimed objects, due to the fact that I saw potential in them. 
@@ -55,7 +55,7 @@ I would never know what an earring is for, since I lack the volume of the ears. 
 
 Subject
 
-![](../images/Living with our own ideas/prosthesis 3.png) 
+![](images/living with our own ideas/prosthesis 3.png) 
 
 I took the chance of being a subject of an investigation to strip away my prosthesis of convenience and privacy. As the hour passed, my physical presence was a decoy to the presence carried online. 
 

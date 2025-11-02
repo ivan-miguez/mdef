@@ -1,6 +1,6 @@
 :root>* {
 
-    /* Grey from header (primary: grey) - use same for all backgrounds */
+    /* Grey from footer - use same for all backgrounds (header and body) */
     --md-footer-bg-color: #9e9e9e;
     --md-footer-fg-color: rgb(222, 222, 209);
     --md-footer-bg-color--dark: #616161;
