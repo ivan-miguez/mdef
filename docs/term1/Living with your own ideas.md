@@ -61,35 +61,56 @@ I took the chance of being a subject of an investigation to strip away my prosth
 
 My digital being, for a whole hour, was at the disposal of who dared to get closer to my devices. Close enough you could read: “Dear detective, you can choose between my physical and digital self to follow. Everything is unlocked. Have fun, Ivan”. And by this I mean my pc, my ipad and my mobile phone. 
 
-As the micromanager that I am, I had no hesitation in confronting my detective and their narrative by adding intentional acts, casual conversation, and moments of absence. The detective was engaged, nevertheless compromised by clouding their judgement. Because if in the classroom my devices were passively open, as a person I was actively hosting the observer into my perimeter of vision. 
+As the micromanager that I am, I had no hesitation in confronting my detective and their narrative by adding intentional acts, casual conversation, and moments of absence. The detective was engaged, nevertheless compromised by clouding their judgement. Because if in the classroom my devices were passively open, as a person I was actively hosting the observer into my perimeter of vision.
 
-Detective
+### Detective
 
 As a detective all of the notes were recorded via earplugs, to low suspission, the notes were externalized in portuguese as if I was making a phone call, this selection is named **[Spying monologues](https://drive.google.com/drive/folders/10zcvNTf2nFyA6-qQSK68tMcxr4KDavle?usp=drive_link)**
 
 13:13; ##### leaves the 301 room
+
 13:14; I went to the balcony to have an aerial view of the street
+
 13:14, also inserting my headphones: Spying monologues begin
+
 13:15; SPOTTED: ##### is heading right side the pujades street.
-13:16; I’m out the IAAC building, turned right
+
+13:16; I'm out the IAAC building, turned right
+
 13:18; SPOTTED: ##### is at the graffiti corner smoking and listening to headphones
+
 // I panicked… ignored them completely… turned right and stayed in a garage.
-13:20; Ale and Francisco showed up. A good excuse to pass by again. 
-13:20; LOST THE SUBJECT. 
-13:21; We went up the ‘Cap problema’ street. 
+
+13:20; Ale and Francisco showed up. A good excuse to pass by again.
+
+13:20; LOST THE SUBJECT.
+
+13:21; We went up the 'Cap problema' street.
+
 13:21; Starting sharing data with other detectives.
+
 13:22; SPOTTED, ##### is ordering food
-	// Stayed a tiny bit at the front door, Speaking to myself in portuguese
+
+// Stayed a tiny bit at the front door, Speaking to myself in portuguese
+
 13:23; Found this park little complex. Thank you #####, for making me wait here talking alone.
-13:26; ##### texted on the MDEF group chat: “Pretty sure my detective lost me”
-13:27 ##### shares a pin location ‘Casa Tao’
+
+13:26; ##### texted on the MDEF group chat: "Pretty sure my detective lost me"
+
+13:27 ##### shares a pin location 'Casa Tao'
+
 // Little do they know I witnessed her asking for a 7 euro quiche; Ingredients Unrecognized
-13:29 I took a break; walked around; Feels weird watching people eat… 
-13:40; Reached IAAC, passively looking on the roof. 
+
+13:29 I took a break; walked around; Feels weird watching people eat…
+
+13:40; Reached IAAC, passively looking on the roof.
+
 13:45; I arrived at room 301… Waiting for ##### to arrive the 301 again
+
 13:48; ##### arrives in room 301 with a take away box.
 
-The conclusion is: I'm not a very good stalker. 
+The conclusion is: I'm not a very good stalker.
+
 I value privacy way too much
 
 
