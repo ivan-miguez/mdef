@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: IHG # - MDEF & Fab Lab Barcelona
+site_name: IHG — MDEF # - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Ivan Hunga Garcia
 copyright: # Copyleft 2023 "Ivan Garcia" - GNU Free Documentation License
@@ -15,9 +15,9 @@ nav:
       - Process: project/project.md
   - Reflections :
       - Term 1:
-          - Bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
-          # - Embodied Criticism: term1/03-Embodied Criticism.md  # removed: file not present
+          - Bootcamp: term1/Bootcamp.md
+          - AoWS: term1/Atlas of Weak Signals.md
+          - "Embodied Criticism": term1/Embodied Criticism.md  
           - "Living with your own ideas": term1/Living with your own ideas.md
 
       - Term 2:
