@@ -168,6 +168,30 @@ body {
     font-size: 14px;
 }
 
+/* Hide TOC on homepage and make content full width */
+.md-content[data-md-component="content"] article:has(div > pre) ~ .md-sidebar--secondary,
+.md-content[data-md-component="content"] article:has(div > pre) + .md-sidebar--secondary {
+    display: none;
+}
+
+/* Make homepage content full width when TOC is hidden */
+.md-content article:has(div > pre) {
+    max-width: 100% !important;
+    margin-right: 0 !important;
+}
+
+.md-content article:has(div > pre) > div {
+    max-width: 100% !important;
+}
+
+/* Ensure ASCII art takes full width */
+.md-content article:has(div > pre) pre {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 20px 0;
+}
+
 /* Hide h2 headings in about page body but keep them in TOC */
 .md-content[data-md-component="content"] article h2 {
     position: absolute;
