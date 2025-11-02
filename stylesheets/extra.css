@@ -1,31 +1,15 @@
 :root>* {
 
-    --md-footer-bg-color: grey;
-    --md-footer-fg-color: grey;
-    --md-footer-bg-color--dark: grey;
-    --md-footer-fg-color--lighter:  grey;
-    --md-footer-fg-color--light:  grey;
-    --mdc-typography-headline6-font-family: "Averia Serif Libre", serif;
-    --mdc-typography-font-family: "Averia Serif Libre", serif;
-    --md-typeset-a-color: rgb(222, 222, 209);
+    --md-footer-bg-color: white;
+    --md-footer-fg-color: rgb(32, 32, 32);
+    --md-footer-bg-color--dark: white;
+    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
+    --md-footer-fg-color--light:  rgb(32, 32, 32);
+    --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
+    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    --md-typeset-a-color: rgb(12, 240, 190);
 
 }
-
-.md-header {
-  background-color: grey;  /*  */
-  /* border-color: rgb(222, 222, 209);      /*  */
-}
-
-
-body {
-  background-color: grey;
-  font-family: "Averia Serif Libre", serif; color: rgb(222, 222, 209);
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: rgb(222, 222, 209) 
-}
-
 
 
 .hide-scroll-bar {
@@ -38,14 +22,14 @@ h1, h2, h3, h4, h5, h6 {
 
   .md-typeset .md-button--primary {
     border-width: 1px;
-    border-color: rgb(222, 222, 209);
+    border-color: rgb(219, 219, 219);
     border-radius: 4px;
   }
 
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(222, 222, 209);
+  color: rgb(32, 32, 32);
 }
 
 .md-typeset h2 {
