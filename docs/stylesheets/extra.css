@@ -163,6 +163,21 @@ body {
     font-weight: 500;
 }
 
+/* Hide h2 headings in about page body but keep them in TOC - use visibility hidden instead of display none */
+.md-typeset article h2 {
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 0 !important;
+    font-size: 0 !important;
+    overflow: hidden !important;
+    position: absolute !important;
+    width: 1px !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+}
+
 .mdc-typography--body2 {
     font-weight: 300;
     font-size: 14px;
@@ -192,15 +207,11 @@ body {
     padding: 20px 0;
 }
 
-/* Hide h2 headings in about page body but keep them in TOC */
-.md-content[data-md-component="content"] article h2 {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border-width: 0;
+/* Ensure all backgrounds match footer color #9e9e9e */
+.md-container {
+    background-color: #9e9e9e !important;
+}
+
+.md-main {
+    background-color: #9e9e9e !important;
 }
