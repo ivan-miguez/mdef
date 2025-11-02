@@ -2,24 +2,13 @@
 
 ## Prosthesis no.1
 
-<div style="display: flex; gap: 10px; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/living with our own ideas/proto 1 pieces.JPG" style="flex: 1; max-width: 100%; height: auto;">
-  <img src="images/living with our own ideas/proto 1 unmounted.JPG" style="flex: 1; max-width: 100%; height: auto;">
-  <img src="images/living with our own ideas/prototype 1 mounted.JPG" style="flex: 1; max-width: 100%; height: auto;">
-</div> 
 
 
-<figure markdown="span">
-  ![pieces to assemble the prototype](images/living with our own ideas/prototype 1 mounted.JPG){ width="300" }
-</figure>
+![pieces to assemble the prototype](../images/living with our own ideas/proto 1 pieces.JPG){ width="300" }
 
-<figure markdown="span">
-  ![unmouted components](images/living with our own ideas/proto 1 unmounted.JPG){ width="300" }
-</figure>
+![unmounted components](../images/living with our own ideas/proto 1 unmounted.JPG){ width="300" }
 
-<figure markdown="span">
-  ![prototype mounted](images/living with our own ideas/prototype 1 mounted.JPG){ width="300" }
-</figure>
+![prototype mounted](../images/living with our own ideas/prototype 1 mounted.JPG){ width="300" }
 
 I find it unfair, everyone has the benefit of feeling my perfume collection except myself. Everytime i try a new fragrance there is an awareness and mindfulness, stimulated by a new scent according to the same surroundings. A fragrance implant, implies an extra accessory as an extension of the human presence. 
 
@@ -41,17 +30,11 @@ That being said, a microdermal closed with a ceramic female piece allows a stock
 
 ## Prosthesis no.2
 
-<figure markdown="span">
-  ![prototype](images/living with our own ideas/proto 2.1.JPG){ width="300" }
-</figure>
+![prototype](../images/living with our own ideas/proto 2.1.JPG){ width="300" }
 
-<figure markdown="span">
-  ![prototype on blazer pocket](images/living with our own ideas/proto2.2.JPG){ width="300" }
-</figure>
+![prototype on blazer pocket](../images/living with our own ideas/proto2.2.JPG){ width="300" }
 
-<figure markdown="span">
-  ![Close up](images/living with our own ideas/proto 2.3 closeup.jpg){ width="300" }
-</figure>
+![Close up](../images/living with our own ideas/proto 2.3 closeup.jpg){ width="300" }
 
 
 
@@ -77,9 +60,7 @@ I would never know what an earring is for, since I lack the volume of the ears. 
 
 ### Subject
 
-<figure markdown="span">
-  ![message directed to the detective](images/living with our own ideas/prosthesis 3.png){ width="300" }
-</figure>
+![message directed to the detective](../images/living with our own ideas/prosthesis 3.png){ width="300" }
 
 
 I took the chance of being a subject of an investigation to strip away my prosthesis of convenience and privacy. As the hour passed, my physical presence was a decoy to the presence carried online. 
