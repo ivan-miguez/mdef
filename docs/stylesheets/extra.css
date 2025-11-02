@@ -8,7 +8,23 @@
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
+    /* Background grey */
+    --md-default-bg-color: #f5f5f5;
+    --md-code-bg-color: #e8e8e8;
 
+}
+
+/* Background grey for main content area */
+body {
+    background-color: #f5f5f5;
+}
+
+.md-main__inner {
+    background-color: #f5f5f5;
+}
+
+.md-content {
+    background-color: #f5f5f5;
 }
 
 
