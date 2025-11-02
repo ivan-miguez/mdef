@@ -167,3 +167,16 @@ body {
     font-weight: 300;
     font-size: 14px;
 }
+
+/* Hide h2 headings in about page body but keep them in TOC */
+.md-content[data-md-component="content"] article h2 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
