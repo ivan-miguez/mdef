@@ -10,15 +10,6 @@
 
 ![prototype mounted](../images/living with our own ideas/prototype 1 mounted.JPG){ width="100%" }
 
-<video width="100%" controls>
-  <source src="../images/living with our own ideas/proto 1 example.MOV" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
-
-<video width="100%" controls>
-  <source src="../images/living with our own ideas/proto 1 first test.MOV" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
 
 
 
@@ -30,14 +21,8 @@ That being said, a microdermal closed with a ceramic female piece allows a stock
 
 
 ---
+See video of the **[SIMULATION](https://youtube.com/shorts/k5SWnX4CmLc)** and other **[ TEST](https://youtube.com/shorts/-pNpR-Y9ZpE)**
 
-¹ prototype pieces
-
-² prototype unmounted
-
-3 prototype mounted
-
-4 simulation
 
 
 ## Prosthesis no.2
@@ -48,14 +33,6 @@ That being said, a microdermal closed with a ceramic female piece allows a stock
 
 ![Close up](../images/living with our own ideas/proto 2.3 closeup.jpg){ width="100%" }
 
-<video width="100%" controls>
-  <source src="../images/living with our own ideas/proto 2.MOV" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
-
-
-
-
 
 A great amount of sparkly things came across my way as I was heading home. From copper thread, to chains, or earrings. I assembled my “Diary of a Crow” with unreclaimed objects, due to the fact that I saw potential in them. 
 
@@ -65,11 +42,7 @@ I would never know what an earring is for, since I lack the volume of the ears. 
 
 ---
 
-¹ prototype view
-
-² prototype on use
-
-² prototype closeup
+See video of the **[SIMULATION](https://youtube.com/shorts/QqqafylpkTs)**
 
 
 ## Prosthesis no.3
