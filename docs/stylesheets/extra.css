@@ -1,6 +1,6 @@
 :root {
     /* Use footer color as base for all backgrounds */
-    --bg-base: #9e9e9e;
+    --bg-base: #616161;
     
     /* Footer - use base color */
     --md-footer-bg-color: var(--bg-base);
@@ -10,8 +10,8 @@
     --md-footer-fg-color--light: rgb(222, 222, 209);
     
     /* Typography */
-    --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
-    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    --mdc-typography-headline6-font-family: 'Averia Serif Libre', serif;
+    --mdc-typography-font-family: 'Averia Serif Libre', serif;
     
     /* Text color - rgb(222,222,209) */
     --md-default-fg-color: rgb(222, 222, 209);
@@ -43,9 +43,45 @@
     --md-primary-bg-color: var(--bg-base);
 }
 
+/* Font classes - moved outside :root */
+.averia-serif-libre-light {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.averia-serif-libre-regular {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.averia-serif-libre-bold {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.averia-serif-libre-light-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.averia-serif-libre-regular-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.averia-serif-libre-bold-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
 /* Header styling - match grey and text color */
 .md-header {
-    background-color: #9e9e9e;
     color: rgb(222, 222, 209);
 }
 
@@ -68,7 +104,6 @@
 /* Text color for all content - rgb(222,222,209) */
 body {
     color: rgb(222, 222, 209);
-    background-color: #9e9e9e;
 }
 
 .md-typeset {
@@ -93,7 +128,7 @@ body {
 }
 
 .md-typeset a:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(30, 30, 30);
 }
 
 .md-nav__link {
@@ -101,21 +136,21 @@ body {
 }
 
 .md-nav__link:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(30, 30, 30);
 }
 
 /* Active navigation link - black when page is open */
 .md-nav__link--active,
 .md-nav__link[aria-current="page"],
 .md-nav__link[aria-current] {
-    color: rgb(0, 0, 0);
+    color: rgb(30, 30, 30);
     font-weight: 600;
 }
 
 /* Active parent navigation items */
 .md-nav__item--active > .md-nav__link,
 .md-nav__item--active > .md-nav__link--active {
-    color: rgb(0, 0, 0);
+    color: rgb(30, 30, 30);
     font-weight: 600;
 }
 
@@ -124,7 +159,7 @@ body {
 }
 
 .md-footer__link:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(30, 30, 30);
 }
 
 /* Navigation menu text color */
@@ -142,33 +177,33 @@ body {
 }
 
 .md-main__inner {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 .md-content {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 /* Sidebar/navigation menu background - matching header grey */
 .md-sidebar {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 .md-nav {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 .md-nav__primary {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 /* Footer background - matching header grey */
 .md-footer {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 .md-footer__inner {
-    background-color: #9e9e9e;
+    background-color: var(--bg-base);
 }
 
 
