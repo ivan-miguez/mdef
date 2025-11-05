@@ -13,6 +13,7 @@ nav:
   - About: about/me.md
   - Biotic Skin:
       - Process: project/project.md
+      - Case Study: "project/case study.md"
   - Deliverables :
       - Term 1:
           - Bootcamp: term1/Bootcamp.md
