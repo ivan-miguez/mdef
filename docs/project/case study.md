@@ -3,7 +3,11 @@
 
 This is a test on how the scoby patch can be applied to different dermatological subjects, requiring active care into a microbial level.
 
-<div style="width: 100%; max-width: 800px; margin: 2rem auto;">
+> **Note:** To match the form's styling with the website, add custom CSS in your JotForm dashboard:
+> - Go to Form Designer → Styles tab → "Inject Custom CSS"
+> - Copy and paste the CSS from `jotform-custom-css.css` in this folder
+
+<div class="jotform-container" style="width: 100%; max-width: 800px; margin: 2rem auto;">
     <iframe
       id="JotFormIFrame-253086921950360"
       title="Weekly Class Evaluation Form"
@@ -12,7 +16,7 @@ This is a test on how the scoby patch can be applied to different dermatological
       allow="geolocation; microphone; camera; fullscreen; payment"
       src="https://form.jotform.com/253086921950360"
       frameborder="0"
-      style="min-width:100%;max-width:100%;height:539px;border:none;"
+      style="min-width:100%;max-width:100%;height:539px;border:none;background-color: #616161;"
       scrolling="no"
     >
     </iframe>

@@ -315,3 +315,15 @@ body {
     background-color: var(--bg-base);
 }
 
+/* JotForm styling to match site theme */
+.jotform-container {
+    background-color: var(--bg-base);
+    padding: 2rem;
+    border-radius: 4px;
+}
+
+/* Style the iframe container */
+#JotFormIFrame-253086921950360 {
+    background-color: var(--bg-base);
+}
+
