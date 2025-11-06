@@ -1,11 +1,9 @@
-
 # Case Study
+
+## Note on Intentions
 
 This is a test on how the scoby patch can be applied to different dermatological subjects, requiring active care into a microbial level.
 
-> **Note:** To match the form's styling with the website, add custom CSS in your JotForm dashboard:
-> - Go to Form Designer → Styles tab → "Inject Custom CSS"
-> - Copy and paste the CSS from `jotform-custom-css.css` in this folder
 
 <div class="jotform-container" style="width: 100%; max-width: 800px; margin: 2rem auto;">
     <iframe
@@ -23,3 +21,15 @@ This is a test on how the scoby patch can be applied to different dermatological
     <script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script>
     <script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-253086921950360']", "https://form.jotform.com/")</script>
 </div>
+
+## Form
+
+> **Note:** To match the form's styling with the website, add custom CSS in your JotForm dashboard:
+> - Go to Form Designer → Styles tab → "Inject Custom CSS"
+> - Copy and paste the CSS from `jotform-custom-css.css` in this folder
+
+## Guide to use
+
+## Hygiene and maintenance procedures
+
+## Disinfecting procedures
