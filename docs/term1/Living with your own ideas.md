@@ -1,5 +1,20 @@
 # Living With Your Own Ideas
 
+## Post-prostheses Essay
+
+The concept of prostheses is not so far-fetched than what we make it to be. The optimization of the human body is an omnipresent pressure and subconscious craving. It also dates back to ancient Egypt and Iran, from myths, traditions and superstitions. Prostheses can either be practical, symbolic or both. They hold personal meaning on what we aim or bodies to be and achieve in a lifetime that expands day by day.
+
+In Ancient — and mythological — Greece we see Gods with prostheses that are metaphors to their beyond-human capabilities. They hold the meaning of how we see human nature outside human physical limits and expectations. They are aspirational. And so are prostheses.
+
+Within 3 rhythmic briefings: “To be the best version of yourself”, “To become something else” and “Judge / To be judged” it was clear to me the approach of self applied prosthesis to be immaterial, invisible, untouchable even. My physical condition is my least concern in regards to my imaginary reach. Unsettling and insatiable by default. 
+
+Those two words define the status-quo of the occidental lifestyle, optimization within the eyes of productivity and efficiency. But efficient to what and to whom? To defend or reach an endless loop. We reach a stage where it is important to strip away excess. Strip away from unanimous expectations, yet involuntarily proclaimed as a coping mechanism.
+
+My phostheses were not about adding up features, but to take away. Decompartmentalize the mental blocks and clouded instincts. When using perfume, deviating metals or unlocking passwords and timeframes, it is also an aim to unlock anxiety and welcome the uncontrolled profile of the outsider, starting from the inside. Also to understand the power of being naive and still expect the best from an unrecognized hand. The art of give and take. Reciprocity.
+
+Human extensions, mental and physical, usually are a reaction to the craving for belonging. Adding personality traits, adding boundaries, adding beauty stereotypes. When the most intriguing quality in a dialogue is the benefit of the dough, letting the unknown unravel a new sense of purpose within the sense of self and interpersonal interactions.
+
+
 ## Prosthesis no.1
 
 
