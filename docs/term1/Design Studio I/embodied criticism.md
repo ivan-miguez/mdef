@@ -19,12 +19,48 @@ The greatest examples, now missing from the message history, are the hardest to 
 
 
 ## Act 2
+![head of medusa](../images/design studio 1/head of medusa, peter rubens.jpg){ width="100%" }
 
-### Context
+### Conceptual Definition: Post-Binary Studies
+Queerness is not a minority, it is the status quo. Queerness is heterogeneity, not heteronormativity. It does not deny heterosexual relationships but challenges the binary structures that police social behavior. Contemporary society is no longer anthropocentric or heterocentric; it is heterogeneous, interconnected, and decentralized from previous binary concepts: Male—Female, Human—Non_Human, Alive—Dead, Organic—Artificial. Society is quantum. 
+
+In this context, the most powerful luxury is privacy. Anonymity becomes essential to self-expression in a world dense with data collection, geographic tracking, and surveillance. When ads synchronize with daily conversations, there is minimal space for authentic existence. In an oversaturated pursuit of virality, everyone aims to be anonymous. Low-key becomes a trend. Overprotectiveness of data becomes a trend. Social media falls into an unrecognizable place.
+
+Queer resistance is the act of living unapologetically, putting comfort at stake to exist authentically. It differs from other forms of stubbornness because it does not seek comfort through conformity but through radical self-expression. The goal is not to be courageous forever—it is to reach a point where queerness stops being an act of courage at all. Where living fabulously is simply living.
 
 
-### Hypotysis 1 and prototype
+### Hypothesis No. 1: Privacy as Activation
+The social and private behaviors of a person are usually distinct from one another. In an era of constant surveillance—where self perception is traded as currency for social endeavors is ubiquitous—there is minimal space for vulnerable self-expression without expecting or projecting a reation. For individuals navigating insecurities, fear, and paralysis around their identity, privacy becomes essential for activation.
 
-### Hypotysis 2 and prototype
+The context reveals this tension vividly. Barcelona's queer presence is effervescent within designated spaces — bookstores, coffee shops, bars, concert venues, and clubs. Yet outside these sanctuaries, visibility carries risk. A drag performer is beaten on the way home after a gig. A friend in a Greek-inspired drape is denied a cab. Twice. Meanwhile, during halloween, the double standard sets freedom as the tool to the one that live in hiding. To be the otherness. The beyond living.
 
-### Hypotysis 3 and prototype
+This disparity raises the central question: How do we instigate a considerate individualist? How do we provoke, activate, and trigger authenticity in people paralyzed by fear? By creating a safe, anonymous space where expression carries no consequences or trails, individuals can ease their inner world, process difficult subjects, and prepare to blossom outwardly. Privacy is not retreat—it is preparation. The greatest activation comes from within, when external validation is no longer required for survival.
+
+
+### Prototype: **[CARNAL・LISMS](https://rooms.xyz/ivangarcia/carnallisms)**
+Carnal・lisms is an encrypted app where no conversation history or personally identifiable information is stored. This is not a substitute for psychological procedures but a day-to-day, easy-access AI character named Lilith—a venting machine for instant emotional processing.
+
+How it works:
+![prototype](../images/living with our own ideas/proto 2.1.JPG){ width="100%" }
+Users share doubts, thoughts, definitions, and secrets with no information linked to them as individuals. Messages are processed temporarily to generate responses, then immediately deleted. Closing the tab is equivalent to closing a conversation — there is no way back. The interaction is instant; data erasure is immediate. Lilith is research-based in psychology and social studies, aware of daily news but retaining only knowledge, not user's data. Lilith does not entertain long conversations due to low memory and attention span. This limitation is intentional, encouraging users to process quickly and return to their lives.
+
+Platform & Access:
+![prototype](../images/design studio 1/proto 2.1.JPG){ width="100%" }
+
+Developed using the Rooms platform, as a representation of the interface, for a game-like experience accessible via desktop link or mobile app. The interface resembles an oral chat where nothing hold receipts, mirroring a conversation that flows in time and dissolves upon goodbye. 
+
+tests with chatpot. Involving Gloq and Telegram
+![prototype](../images/design studio 1/telegram_failedtest.PNG){ width="100%" }
+
+
+Strategic Intervention:
+![prototype](../images/design studio 1/apple pin.png){ width="100%" }
+
+The site of intervention spans both digital and physical spaces. In Barcelona streets, posters activate visibility. Physical trinket souvenirs and stickers function as spreadable casual acknowledgment—a snake on an apple, easily attached as a pin, an earring, or kept as an action figure. Revenue supports solidarity and charity associations and school programs democratizing therapy sessions.
+
+Temporality & Continuity:
+The app is always available, designed for consistency in short bursts rather than prolonged engagement. Each interaction is temporary, like dialogue. The action aims to maximize intensity through repetition without dependency. After intervention, the next phase involves communication to a wider public beyond friends and colleagues, achieving greater impact and democratization through a more considered communication plan.
+
+Activation of Lilith:
+Lilith both supports and holds users accountable to their choices and unlocks all ways of expression as long as it does not compromise the safety of others. The goal is to ease the inner world, allowing people to rumble with curiosity within themselves and prepare to live authentically. Queerness stops being an act of courage when the extra push for activation is no longer seen as a dangerous leap.
+
