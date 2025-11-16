@@ -11,9 +11,15 @@ Might have embodied criticism way too personally. Although fetishization - and o
 
 ###**[GRINDR CHATS](https://youtube.com/shorts/EC8IXs358l4?feature=share)**
 
+<video width="100%" controls style="max-width: 800px; display: block; margin: 0 auto;">
+  <source src="../../images/design studio 1/IG_Embodied Criticism.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Act 2
 
 ### Context
+
 
 ### Hypotysis 1 and prototype
 
