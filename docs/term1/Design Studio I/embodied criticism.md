@@ -9,7 +9,7 @@ Might have embodied criticism way too personally. Although fetishization - and o
 
 2. Cuir is a latin interjection of what it means to be "Queer", outside the Anglo Saxon background and power subliminars
 
-### Grindr Chats
+###**[GRINDR CHATS](https://youtube.com/shorts/EC8IXs358l4?feature=share)**
 
 ## Act 2
 
