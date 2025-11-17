@@ -41,7 +41,7 @@ This disparity raises the central question: How do we instigate a considerate in
 
 Carnal・lisms is an encrypted app where no conversation history or personally identifiable information is stored. This is not a substitute for psychological procedures but a day-to-day, easy-access AI character named Lilith — a venting machine for instant emotional processing.
 
-####How it works:
+####How it works
 
 ![roomstyle](../../images/design studio 1/carnallisms_room_day4.png){ width="100%" }
 
@@ -49,7 +49,7 @@ Users share doubts, thoughts, definitions, and secrets with no information linke
 
 ####**[CONVO EXAMPLE](https://youtu.be/QW2W_MeGvAk)**
 
-####Platform & Access:
+####Platform & Access
 
 ![roomstyle](../../images/design studio 1/carnallisms_room_day1.png){ width="100%" }
 
