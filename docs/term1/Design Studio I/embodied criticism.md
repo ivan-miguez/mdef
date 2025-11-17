@@ -28,6 +28,21 @@ In this context, the most powerful luxury is privacy. Anonymity becomes essentia
 
 Queer resistance is the act of living unapologetically, putting comfort at stake to exist authentically. It differs from other forms of stubbornness because it does not seek comfort through conformity but through radical self-expression. The goal is not to be courageous forever—it is to reach a point where queerness stops being an act of courage at all. Where living fabulously is simply living.
 
+#### Medusa and Lilith as Vilanized outcasts
+
+In early Greek culture, Medusa was a protective figure, not a monster. Her image was used as a talisman (Gorgoneion). In Ovid’s version, she is punished after being raped by Poseidon, showing how patriarchal culture reframes feminine autonomy as monstrosity.
+
+Medusa’s Transformation Ovid’s Metamorphoses marks the shift where her beauty and strength become punishment. Athena transforms her into a Gorgon, turning her into a mirror of patriarchal fear.
+
+The Snake as Symbol Snakes once symbolized fertility, protection, and cyclical life. Patriarchal systems transformed them into signs of deceit and evil—mirroring how feminine wisdom was demonized.
+
+As for Lilith’s Origins, she enters Jewish myth as Adam’s first wife who refuses submission and leaves Eden. Her exile marks her as a figure of rebellion and freedom.
+
+Lilith represents sexual and spiritual autonomy — the woman who says no to domination.
+
+Both in Kabbalistic texts and astrology concepts, Lilith  embodies hidden lunar energy, mystery, and transformation as the 'Queen of Demons' Astrologically, Black Moon Lilith marks the Moon’s apogee and symbolizes our untamed, authentic, and ungovernable self — the part that reveals hidden truth. 
+
+The Feminine Trinity of Eve, Lilith, and Medusa together form a triad of forbidden femininity, consequently: Curiosity and awakening, Rebellion and Autonomy, Transformation and Reflection.
 
 ###Privacy as Activation
 The social and private behaviors of a person are usually distinct from one another. In an era of constant surveillance—where self perception is traded as currency for social endeavors is ubiquitous—there is minimal space for vulnerable self-expression without expecting or projecting a reation. For individuals navigating insecurities, fear, and paralysis around their identity, privacy becomes essential for activation.
@@ -40,6 +55,8 @@ This disparity raises the central question: How do we instigate a considerate in
 ### **[CARNAL・LISMS](https://rooms.xyz/ivangarcia/carnallisms)** room
 
 Carnal・lisms is an encrypted app where no conversation history or personally identifiable information is stored. This is not a substitute for psychological procedures but a day-to-day, easy-access AI character named Lilith — a venting machine for instant emotional processing.
+
+The interface can be seen as an interactive painting, pushing mythological symbols as tracks for the historial push for archetypical agendas withing collective expecations and self-sensoring for a "greater good". The confessional persues codes of sinful aspects in order to proclaim them as part of the human experience and interaction. Same applied to the use of technology and its aplicaiton for sensorship and standardization.
 
 ####How it works
 
