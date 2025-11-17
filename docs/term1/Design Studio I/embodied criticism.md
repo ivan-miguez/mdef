@@ -19,7 +19,7 @@ The greatest examples, now missing from the message history, are the hardest to 
 
 
 ## Act 2
-![head of medusa](../images/design studio 1/head of medusa, peter rubens.jpg){ width="100%" }
+![head of medusa](../../images/design studio 1/head of medusa, peter rubens.jpg){ width="100%" }
 
 ### Conceptual Definition: Post-Binary Studies
 Queerness is not a minority, it is the status quo. Queerness is heterogeneity, not heteronormativity. It does not deny heterosexual relationships but challenges the binary structures that police social behavior. Contemporary society is no longer anthropocentric or heterocentric; it is heterogeneous, interconnected, and decentralized from previous binary concepts: Male—Female, Human—Non_Human, Alive—Dead, Organic—Artificial. Society is quantum. 
@@ -43,7 +43,7 @@ Carnal・lisms is an encrypted app where no conversation history or personally i
 
 How it works:
 
-![roomstyle](../images/design studio 1/carnallisms_room_day4.png){ width="100%" }
+![roomstyle](../../images/design studio 1/carnallisms_room_day4.png){ width="100%" }
 
 Users share doubts, thoughts, definitions, and secrets with no information linked to them as individuals. Messages are processed temporarily to generate responses, then immediately deleted. Closing the tab is equivalent to closing a conversation — there is no way back. The interaction is instant; data erasure is immediate. Lilith is research-based in psychology and social studies, aware of daily news but retaining only knowledge, not user's data. Lilith does not entertain long conversations due to low memory and attention span. This limitation is intentional, encouraging users to process quickly and return to their lives.
 
@@ -51,20 +51,20 @@ Users share doubts, thoughts, definitions, and secrets with no information linke
 
 Platform & Access:
 
-![roomstyle](../images/design studio 1/carnallisms_room_day1.png){ width="100%" }
+![roomstyle](../../images/design studio 1/carnallisms_room_day1.png){ width="100%" }
 
-![roomstyle](../images/design studio 1/carnallisms_room_day2.png){ width="100%" }
+![roomstyle](../../images/design studio 1/carnallisms_room_day2.png){ width="100%" }
 
 
 Developed using the Rooms platform, as a representation of the interface, for a game-like experience accessible via desktop link or mobile app. The interface resembles an oral chat where nothing hold receipts, mirroring a conversation that flows in time and dissolves upon goodbye. 
 
 tests with chatpot. Involving Gloq and Telegram
 
-![telegram_bot_1](../images/design studio 1/telegram_failedtest.PNG){ width="100%" }
+![telegram_bot_1](../../images/design studio 1/telegram_failedtest.PNG){ width="100%" }
 
-![telegram_bot_2](../images/design studio 1/telegram_failedtest2.png){ width="100%" }
+![telegram_bot_2](../../images/design studio 1/telegram_failedtest2.png){ width="100%" }
 
-![telegram_bot_3](../images/design studio 1/telegram_failedtest3.png){ width="100%" }
+![telegram_bot_3](../../images/design studio 1/telegram_failedtest3.png){ width="100%" }
 
 
 Strategic Intervention:
@@ -74,13 +74,13 @@ Strategic Intervention:
 The site of intervention spans both digital and physical spaces. In Barcelona streets, posters activate visibility. Physical trinket souvenirs and stickers function as spreadable casual acknowledgment — an apple, easily attached as a pin, an earring, or kept as an action figure. Revenue supports solidarity and charity associations and school programs democratizing therapy sessions.
 
 
-![poster](../images/design studio 1/carnalismsposter.jpg){ width="100%" }
+![poster](../../images/design studio 1/carnalismsposter.jpg){ width="100%" }
 Temporality & Continuity:
 
 The app is always available, designed for consistency in short bursts rather than prolonged engagement. Each interaction is temporary, like dialogue. The action aims to maximize intensity through repetition without dependency. After intervention, the next phase involves communication to a wider public beyond friends and colleagues, achieving greater impact and democratization through a more considered communication plan.
 
 
-![coding](../images/design studio 1/codigoaicharacter){ width="100%" }
+![coding](../../images/design studio 1/codigoaicharacter.png){ width="100%" }
 
 Activation of Lilith:
 
