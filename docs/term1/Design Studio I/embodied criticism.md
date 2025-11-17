@@ -57,6 +57,15 @@ Users share doubts, thoughts, definitions, and secrets with no information linke
 
 Developed using the Rooms platform, as a representation of the interface, for a game-like experience accessible via desktop link or mobile app. The interface resembles an oral chat where nothing hold receipts, mirroring a conversation that flows in time and dissolves upon goodbye. 
 
+####Code of Conduct
+The privacy of the user is very important to me. Therefore I will not be storing the conversations, I cannot access them. And that is the main restriction i set clear for this experiment.
+
+The project will develop exclusively from direct feedback of people who are confortable to come forward with its experience. Having a sattisfaction form can be another approach while expanding to a bigger public. 
+
+Being able to talk with the AI as a developer, instead of retaining the data via the character (as a front page) seems like a more fair interaction and relationship between USER, AI and the developer. 
+
+ - I'm still not able to have that insight. Although, in order to understand the relationship created from one another. The platform, would allow me (as the developer) to interact with the AI in order to understand the aplication. AI is responsible to the privacy of the people it interacts with. In a Human Resources point of view.
+
 
 ####Strategic Intervention:
 
