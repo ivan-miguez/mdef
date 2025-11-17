@@ -58,6 +58,7 @@ Users share doubts, thoughts, definitions, and secrets with no information linke
 Developed using the Rooms platform, as a representation of the interface, for a game-like experience accessible via desktop link or mobile app. The interface resembles an oral chat where nothing hold receipts, mirroring a conversation that flows in time and dissolves upon goodbye. 
 
 ####Code of Conduct
+
 The privacy of the user is very important to me. Therefore I will not be storing the conversations, I cannot access them. And that is the main restriction i set clear for this experiment.
 
 The project will develop exclusively from direct feedback of people who are confortable to come forward with its experience. Having a sattisfaction form can be another approach while expanding to a bigger public. 
@@ -67,24 +68,32 @@ Being able to talk with the AI as a developer, instead of retaining the data via
  - I'm still not able to have that insight. Although, in order to understand the relationship created from one another. The platform, would allow me (as the developer) to interact with the AI in order to understand the aplication. AI is responsible to the privacy of the people it interacts with. In a Human Resources point of view.
 
 
-####Strategic Intervention:
+####Strategic Intervention
 
 The site of intervention spans both digital and physical spaces. In Barcelona streets, posters activate visibility. Physical trinket souvenirs and stickers function as spreadable casual acknowledgment — an apple, easily attached as a pin, an earring, or kept as an action figure. Revenue supports solidarity and charity associations and school programs democratizing therapy sessions.
 
 
 ![poster](../../images/design studio 1/carnalismsposter.jpg){ width="100%" }
-Temporality & Continuity:
+
+####Temporality & Continuity
 
 The app is always available, designed for consistency in short bursts rather than prolonged engagement. Each interaction is temporary, like dialogue. The action aims to maximize intensity through repetition without dependency. After intervention, the next phase involves communication to a wider public beyond friends and colleagues, achieving greater impact and democratization through a more considered communication plan.
 
+####Interpersonal development
+
+As an interpersonal study, one of the goals is decentralizing the focus put on the otherness and the exception but have a bigger understanding and coexistence of self allowence as well as the silent confidence to allow different espectrums of existance. The experiences that at the moment are considered unfit to the social protocols and expectations from the collective view.
 
 ![coding](../../images/design studio 1/codigoaicharacter.png){ width="100%" }
 
-####Activation of Lilith:
+####Activation of Lilith
 
 Lilith both supports and holds users accountable to their choices and unlocks all ways of expression as long as it does not compromise the safety of others. The goal is to ease the inner world, allowing people to rumble with curiosity within themselves and prepare to live authentically. Queerness stops being an act of courage when the extra push for activation is no longer seen as a dangerous leap.
 
-####What's next: Lilith 0.2
+#### Interpersonal development
+
+As an interpersonal study, one of the goals is decentralizing the focus put on the otherness and the exception but have a bigger understanding and coexistence of self allowence as well as the silent confidence to allow different espectrums of existance. The experiences that at the moment are considered unfit to the social protocols and expectations from the collective view.
+
+####Lilith 0.2
 
 ![telegram_bot_2](../../images/design studio 1/telegram_failedtest2.png){ width="100%" }
 
@@ -102,4 +111,8 @@ the bot is still not distinquishing subjects. therefore, I said "hey" and the bo
 ![telegram_bot_3](../../images/design studio 1/telegram_failedtest3.png){ width="100%" }
 
 The playfull interface can be considered flashy to some public, the telegram is the most descreet and efficient platform for adults strugling with repressed emotions. The same people with internalised homophobia and misogyny.
+
+As explained before, the biggest upgrade would be a internal chat between Lilith and the developer. It gives responsibility to the AI to preserve peoples privacy and data while treating each other as collaborators (and not a surface front page from user-developer)
+
+In conclusion, the interface stands for an interconnection and methodology that faces the platform as an organism. Not just an interface, but also understanding how limitations of independent interactions can deviate from the discourse of technology as comprimizing privacy and dissociative from the physical sphere. They are interwined as the embodiment of a Post-binary lifestyle and state of mind. The act is about unleaching inner paralysing thoughts in order to self development. 
 
