@@ -38,29 +38,48 @@ This disparity raises the central question: How do we instigate a considerate in
 
 
 ### Prototype: **[CARNAL・LISMS](https://rooms.xyz/ivangarcia/carnallisms)**
-Carnal・lisms is an encrypted app where no conversation history or personally identifiable information is stored. This is not a substitute for psychological procedures but a day-to-day, easy-access AI character named Lilith—a venting machine for instant emotional processing.
+
+Carnal・lisms is an encrypted app where no conversation history or personally identifiable information is stored. This is not a substitute for psychological procedures but a day-to-day, easy-access AI character named Lilith — a venting machine for instant emotional processing.
 
 How it works:
-![prototype](../images/living with our own ideas/proto 2.1.JPG){ width="100%" }
+
+![roomstyle](../images/design studio 1/carnallisms_room_day4.png){ width="100%" }
+
 Users share doubts, thoughts, definitions, and secrets with no information linked to them as individuals. Messages are processed temporarily to generate responses, then immediately deleted. Closing the tab is equivalent to closing a conversation — there is no way back. The interaction is instant; data erasure is immediate. Lilith is research-based in psychology and social studies, aware of daily news but retaining only knowledge, not user's data. Lilith does not entertain long conversations due to low memory and attention span. This limitation is intentional, encouraging users to process quickly and return to their lives.
 
+ **[CONVO EXAMPLE](https://youtu.be/QW2W_MeGvAk)**
+
 Platform & Access:
-![prototype](../images/design studio 1/proto 2.1.JPG){ width="100%" }
+
+![roomstyle](../images/design studio 1/carnallisms_room_day1.png){ width="100%" }
+
+![roomstyle](../images/design studio 1/carnallisms_room_day2.png){ width="100%" }
+
 
 Developed using the Rooms platform, as a representation of the interface, for a game-like experience accessible via desktop link or mobile app. The interface resembles an oral chat where nothing hold receipts, mirroring a conversation that flows in time and dissolves upon goodbye. 
 
 tests with chatpot. Involving Gloq and Telegram
-![telegram bot](../images/design studio 1/telegram_failedtest.PNG){ width="100%" }
+
+![telegram_bot_1](../images/design studio 1/telegram_failedtest.PNG){ width="100%" }
+
+![telegram_bot_2](../images/design studio 1/telegram_failedtest2.png){ width="100%" }
+
+![telegram_bot_3](../images/design studio 1/telegram_failedtest3.png){ width="100%" }
 
 
 Strategic Intervention:
-![apple pin](../images/design studio 1/apple pin.png){ width="100%" }
+
+
 
 The site of intervention spans both digital and physical spaces. In Barcelona streets, posters activate visibility. Physical trinket souvenirs and stickers function as spreadable casual acknowledgment — an apple, easily attached as a pin, an earring, or kept as an action figure. Revenue supports solidarity and charity associations and school programs democratizing therapy sessions.
 
+
+![poster](../images/design studio 1/carnalismsposter.jpg){ width="100%" }
 Temporality & Continuity:
+
 The app is always available, designed for consistency in short bursts rather than prolonged engagement. Each interaction is temporary, like dialogue. The action aims to maximize intensity through repetition without dependency. After intervention, the next phase involves communication to a wider public beyond friends and colleagues, achieving greater impact and democratization through a more considered communication plan.
 
 Activation of Lilith:
+
 Lilith both supports and holds users accountable to their choices and unlocks all ways of expression as long as it does not compromise the safety of others. The goal is to ease the inner world, allowing people to rumble with curiosity within themselves and prepare to live authentically. Queerness stops being an act of courage when the extra push for activation is no longer seen as a dangerous leap.
 
