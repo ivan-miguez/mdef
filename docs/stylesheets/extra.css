@@ -327,3 +327,29 @@ body {
     background-color: var(--bg-base);
 }
 
+/* TOC (Table of Contents) styling - make links more visible with darker color like menu active links */
+.md-sidebar--secondary .md-nav__link {
+    color: rgb(100, 100, 90) !important;
+    opacity: 1;
+}
+
+.md-sidebar--secondary .md-nav__link:hover {
+    color: rgb(30, 30, 30) !important;
+}
+
+.md-sidebar--secondary .md-nav__link--active {
+    color: rgb(30, 30, 30) !important;
+    font-weight: 600;
+}
+
+/* Ensure TOC title is visible */
+.md-sidebar--secondary .md-nav__title {
+    color: rgb(30, 30, 30) !important;
+    font-weight: 600;
+}
+
+/* Active TOC items - make them stand out more like menu active items */
+.md-sidebar--secondary .md-nav__item--active .md-nav__link {
+    color: rgb(30, 30, 30) !important;
+}
+
