@@ -5,7 +5,7 @@
     /* Footer - use base color */
     --md-footer-bg-color: var(--bg-base);
     --md-footer-fg-color: rgb(222, 222, 209);
-    --md-footer-bg-color--dark: #616161;
+    --md-footer-bg-color--dark: var(--bg-base);
     --md-footer-fg-color--lighter: rgb(222, 222, 209);
     --md-footer-fg-color--light: rgb(222, 222, 209);
     
