@@ -21,7 +21,7 @@ The greatest examples, now missing from the message history, are the hardest to 
 ## Act 2
 ![head of medusa](../../images/design studio 1/head of medusa, peter rubens.jpg){ width="100%" }
 
-### Conceptual Definition: Post-Binary Studies
+###Post-Binary Studies
 Queerness is not a minority, it is the status quo. Queerness is heterogeneity, not heteronormativity. It does not deny heterosexual relationships but challenges the binary structures that police social behavior. Contemporary society is no longer anthropocentric or heterocentric; it is heterogeneous, interconnected, and decentralized from previous binary concepts: Male—Female, Human—Non_Human, Alive—Dead, Organic—Artificial. Society is quantum. 
 
 In this context, the most powerful luxury is privacy. Anonymity becomes essential to self-expression in a world dense with data collection, geographic tracking, and surveillance. When ads synchronize with daily conversations, there is minimal space for authentic existence. In an oversaturated pursuit of virality, everyone aims to be anonymous. Low-key becomes a trend. Overprotectiveness of data becomes a trend. Social media falls into an unrecognizable place.
@@ -29,7 +29,7 @@ In this context, the most powerful luxury is privacy. Anonymity becomes essentia
 Queer resistance is the act of living unapologetically, putting comfort at stake to exist authentically. It differs from other forms of stubbornness because it does not seek comfort through conformity but through radical self-expression. The goal is not to be courageous forever—it is to reach a point where queerness stops being an act of courage at all. Where living fabulously is simply living.
 
 
-### Hypothesis No. 1: Privacy as Activation
+###Privacy as Activation
 The social and private behaviors of a person are usually distinct from one another. In an era of constant surveillance—where self perception is traded as currency for social endeavors is ubiquitous—there is minimal space for vulnerable self-expression without expecting or projecting a reation. For individuals navigating insecurities, fear, and paralysis around their identity, privacy becomes essential for activation.
 
 The context reveals this tension vividly. Barcelona's queer presence is effervescent within designated spaces — bookstores, coffee shops, bars, concert venues, and clubs. Yet outside these sanctuaries, visibility carries risk. A drag performer is beaten on the way home after a gig. A friend in a Greek-inspired drape is denied a cab. Twice. Meanwhile, during halloween, the double standard sets freedom as the tool to the one that live in hiding. To be the otherness. The beyond living.
@@ -37,7 +37,7 @@ The context reveals this tension vividly. Barcelona's queer presence is efferves
 This disparity raises the central question: How do we instigate a considerate individualist? How do we provoke, activate, and trigger authenticity in people paralyzed by fear? By creating a safe, anonymous space where expression carries no consequences or trails, individuals can ease their inner world, process difficult subjects, and prepare to blossom outwardly. Privacy is not retreat—it is preparation. The greatest activation comes from within, when external validation is no longer required for survival.
 
 
-### Prototype: **[CARNAL・LISMS](https://rooms.xyz/ivangarcia/carnallisms)**
+### **[CARNAL・LISMS](https://rooms.xyz/ivangarcia/carnallisms)** room
 
 Carnal・lisms is an encrypted app where no conversation history or personally identifiable information is stored. This is not a substitute for psychological procedures but a day-to-day, easy-access AI character named Lilith — a venting machine for instant emotional processing.
 
