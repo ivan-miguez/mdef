@@ -41,35 +41,24 @@ This disparity raises the central question: How do we instigate a considerate in
 
 Carnal・lisms is an encrypted app where no conversation history or personally identifiable information is stored. This is not a substitute for psychological procedures but a day-to-day, easy-access AI character named Lilith — a venting machine for instant emotional processing.
 
-How it works:
+####How it works:
 
 ![roomstyle](../../images/design studio 1/carnallisms_room_day4.png){ width="100%" }
 
 Users share doubts, thoughts, definitions, and secrets with no information linked to them as individuals. Messages are processed temporarily to generate responses, then immediately deleted. Closing the tab is equivalent to closing a conversation — there is no way back. The interaction is instant; data erasure is immediate. Lilith is research-based in psychology and social studies, aware of daily news but retaining only knowledge, not user's data. Lilith does not entertain long conversations due to low memory and attention span. This limitation is intentional, encouraging users to process quickly and return to their lives.
 
- **[CONVO EXAMPLE](https://youtu.be/QW2W_MeGvAk)**
+####**[CONVO EXAMPLE](https://youtu.be/QW2W_MeGvAk)**
 
-Platform & Access:
+####Platform & Access:
 
 ![roomstyle](../../images/design studio 1/carnallisms_room_day1.png){ width="100%" }
 
 ![roomstyle](../../images/design studio 1/carnallisms_room_day2.png){ width="100%" }
 
-
 Developed using the Rooms platform, as a representation of the interface, for a game-like experience accessible via desktop link or mobile app. The interface resembles an oral chat where nothing hold receipts, mirroring a conversation that flows in time and dissolves upon goodbye. 
 
-tests with chatpot. Involving Gloq and Telegram
 
-![telegram_bot_1](../../images/design studio 1/telegram_failedtest.PNG){ width="100%" }
-
-![telegram_bot_2](../../images/design studio 1/telegram_failedtest2.png){ width="100%" }
-
-![telegram_bot_3](../../images/design studio 1/telegram_failedtest3.png){ width="100%" }
-
-
-Strategic Intervention:
-
-
+####Strategic Intervention:
 
 The site of intervention spans both digital and physical spaces. In Barcelona streets, posters activate visibility. Physical trinket souvenirs and stickers function as spreadable casual acknowledgment — an apple, easily attached as a pin, an earring, or kept as an action figure. Revenue supports solidarity and charity associations and school programs democratizing therapy sessions.
 
@@ -82,7 +71,26 @@ The app is always available, designed for consistency in short bursts rather tha
 
 ![coding](../../images/design studio 1/codigoaicharacter.png){ width="100%" }
 
-Activation of Lilith:
+####Activation of Lilith:
 
 Lilith both supports and holds users accountable to their choices and unlocks all ways of expression as long as it does not compromise the safety of others. The goal is to ease the inner world, allowing people to rumble with curiosity within themselves and prepare to live authentically. Queerness stops being an act of courage when the extra push for activation is no longer seen as a dangerous leap.
+
+####What's next: Lilith 0.2
+
+![telegram_bot_2](../../images/design studio 1/telegram_failedtest2.png){ width="100%" }
+
+A next input, mainly via telegram, would be the character to a proactive approach to the issues displayed by the user. For example, create daily exercises or follow up questions concerning the mental state of the user. 
+
+tests with chatpot. Involving Gloq and Telegram
+status: failed
+
+![telegram_bot_1](../../images/design studio 1/telegram_failedtest.PNG){ width="100%" }
+
+The code is blocked after the first introduction, showing a 'error' reply after every interaction.
+
+the bot is still not distinquishing subjects. therefore, I said "hey" and the bot assumed that is a pronoun.
+
+![telegram_bot_3](../../images/design studio 1/telegram_failedtest3.png){ width="100%" }
+
+The playfull interface can be considered flashy to some public, the telegram is the most descreet and efficient platform for adults strugling with repressed emotions. The same people with internalised homophobia and misogyny.
 
