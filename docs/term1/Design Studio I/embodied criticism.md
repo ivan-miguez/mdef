@@ -89,10 +89,6 @@ As an interpersonal study, one of the goals is decentralizing the focus put on t
 
 Lilith both supports and holds users accountable to their choices and unlocks all ways of expression as long as it does not compromise the safety of others. The goal is to ease the inner world, allowing people to rumble with curiosity within themselves and prepare to live authentically. Queerness stops being an act of courage when the extra push for activation is no longer seen as a dangerous leap.
 
-#### Interpersonal development
-
-As an interpersonal study, one of the goals is decentralizing the focus put on the otherness and the exception but have a bigger understanding and coexistence of self allowence as well as the silent confidence to allow different espectrums of existance. The experiences that at the moment are considered unfit to the social protocols and expectations from the collective view.
-
 ####Lilith 0.2
 
 ![telegram_bot_2](../../images/design studio 1/telegram_failedtest2.png){ width="100%" }
