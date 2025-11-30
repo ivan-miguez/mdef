@@ -23,9 +23,28 @@ This is a test on how the scoby patch can be applied to different dermatological
 </div>
 
 
+## Content and picture specifications:
 
-## Guide to use
+Take a picture of the section of contact in a white empty background;
+Avoid harsh shadow contrast;
+Have a clear vision of the section of contact one picture with the scoby and one without;
+Make sure the picture is sharp, focused and with the least layers possible;
+Follow the picture with a quick follow up form, respond according to the timeline of the picture so that i have a side by side analysis.
 
-## Hygiene and maintenance procedures
+## Hygiene and maintenance procedures:
 
-## Disinfecting procedures
+Some products might me harsh to the scoby, avoid chemical peels and antibiotic creams
+Feeling dry?, apply some cream or liquid glycerin around it, anything you would apply to the skin
+When doing daily errands please avoid contact with dishsoap and cleaning products, do not machine wash it with harsh chemicals.
+
+You can disinfect it using blue soap or oxigenated water. Do not use alcohol
+To use the oxinenated water, soak a cotton tissue and slide through the scoby, do not soak the scoby. Do not use baking soda to clean the scoby. Vinegar can also be used.
+
+Keep the scoby on the skin as long as possible, use it clean it and apply it after the excess water evaporates. The scoby does not need to dry to be used again.
+
+Take precaution to the space you leave or use the scoby. Do not leave it in a susceptible creation of mold and make sure to balance the hydration after being in a particularly hot or dry environment.
+
+
+## Sterelization procedures:
+
+In case the smell changes or you see the scoby being taken by fungus, please proceed to the cleaning methods described above. Also in this case, do not insist on leaving it on the skin before cleaned.
