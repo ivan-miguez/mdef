@@ -18,7 +18,7 @@ The greatest examples, now missing from the message history, are the hardest to 
 ###**[GRINDR CHATS](https://youtube.com/shorts/EC8IXs358l4?feature=share)**
 
 
-## Act 2
+## Act 2 & 3
 ![head of medusa](../../images/design studio 1/head of medusa, peter rubens.jpg){ width="100%" }
 
 ###Post-Binary Studies
@@ -129,3 +129,23 @@ As explained before, the biggest upgrade would be a internal chat between Lilith
 
 In conclusion, the interface stands for an interconnection and methodology that faces the platform as an organism. Not just an interface, but also understanding how limitations of independent interactions can deviate from the discourse of technology as comprimizing privacy and dissociative from the physical sphere. They are interwined as the embodiment of a Post-binary lifestyle and state of mind. The act is about unleaching inner paralysing thoughts in order to self development. 
 
+## Act 4
+![carnalismos zine](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
+
+Initially, we scattered through unwanted attention. Then we turned inward, decompartmentalizing inner experiences while facing external inputs. Acting on it meant facing it alone, as individuals. But acting collectively was always implicit—bonding beyond insecurity, connecting aside from circumstantial meetups. Acting collectively is creating together: by us, from us, and for us exclusively.
+
+### From Prototype to Medium:
+
+After developing a venting and confessional room (Carnallisms), the next logical stage was to advertise it. This translation transformed into a medium of creation itself—an expressionist zine titled "Carnal.lismos". The first segment focuses on translating daily objects into BDSM codes of expression, exploring how power dynamics operate both within and outside professional settings.
+
+### Collective Activation:
+
+A dear friend living in Barcelona is currently finishing a project focused on immigrant queer entities passing through Barcelona in their personal or professional lives. During the first photoshoot, the team connected organically, and so did their intentions for the project. Creative sessions became a means to bond and share personal experiences through artistic expression.
+
+### Community & Contribution:
+
+This zine invites queer artists and practitioners in Barcelona to explore every medium within a fashion editorial approach. As collaborator and publisher, I mediate spaces where creative autonomy is prioritized. The queer community in Barcelona needs this activation because, despite the city's effervescent queer presence, there remains a need for autonomous platforms of creative resistance—spaces.
+
+### Collective Objectives:
+
+Through collaborative creative sessions, we build proximity and solidarity. Our objectives are creative resistance, community autonomy, and intimate circulation among community rather than algorithmic reach. By us, from us, for us.
