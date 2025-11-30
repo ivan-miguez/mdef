@@ -21,6 +21,9 @@ nav:
           - "Design Studio I": 
               - "Embodied Criticism": term1/Design Studio I/embodied criticism.md
           - "Living with your own ideas": term1/Living with your own ideas.md
+          - "Unkacking Tech Systems": 
+            - "Forensic Report - Apple Macbook": term1/Unkacking Tech Systems/Forensic Report - Apple Macbook.md
+            - "The Meluza Machine": term1/Unkacking Tech Systems/The Meluza Machine.md
 
       - Term 2:
           - digi: term1/Bootcamp.md
