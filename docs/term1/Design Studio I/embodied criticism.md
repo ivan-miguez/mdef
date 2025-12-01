@@ -131,7 +131,11 @@ As explained before, the biggest upgrade would be a internal chat between Lilith
 In conclusion, the interface stands for an interconnection and methodology that faces the platform as an organism. Not just an interface, but also understanding how limitations of independent interactions can deviate from the discourse of technology as comprimizing privacy and dissociative from the physical sphere. They are interwined as the embodiment of a Post-binary lifestyle and state of mind. The act is about unleaching inner paralysing thoughts in order to self development. 
 
 ## Act 4
-![carnalismoszine](../../images/design studio 1/carnallismos1.JPG){ width="100%" } | ![carnalismoszine](../../images/design studio 1/carnallismos2.JPG){ width="100%" }
+
+<div style="display: flex; gap: 10px; margin: 10px 0;">
+  <img src="../../images/design studio 1/carnallismos1.JPG" alt="carnalismoszine" style="width: 50%;"/>
+  <img src="../../images/design studio 1/carnalismos2.JPG" alt="carnalismoszine" style="width: 50%;"/>
+</div>
 
 Featured Designer: Ivan Hunga Garcia
 Photographer: Mário Silva
