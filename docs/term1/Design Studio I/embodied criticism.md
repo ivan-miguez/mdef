@@ -123,6 +123,7 @@ the bot is still not distinquishing subjects. therefore, I said "hey" and the bo
 
 ![telegram_bot_3](../../images/design studio 1/telegram_failedtest3.png){ width="100%" }
 
+
 The playfull interface can be considered flashy to some public, the telegram is the most descreet and efficient platform for adults strugling with repressed emotions. The same people with internalised homophobia and misogyny.
 
 As explained before, the biggest upgrade would be a internal chat between Lilith and the developer. It gives responsibility to the AI to preserve peoples privacy and data while treating each other as collaborators (and not a surface front page from user-developer)
@@ -130,22 +131,30 @@ As explained before, the biggest upgrade would be a internal chat between Lilith
 In conclusion, the interface stands for an interconnection and methodology that faces the platform as an organism. Not just an interface, but also understanding how limitations of independent interactions can deviate from the discourse of technology as comprimizing privacy and dissociative from the physical sphere. They are interwined as the embodiment of a Post-binary lifestyle and state of mind. The act is about unleaching inner paralysing thoughts in order to self development. 
 
 ## Act 4
-![carnalismos zine](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
+![carnalismoszine](../../images/design studio 1/carnallismos1.JPG){ width="100%" } | ![carnalismoszine](../../images/design studio 1/carnallismos2.JPG){ width="100%" }
+
+Featured Designer: Ivan Hunga Garcia
+Photographer: Mário Silva
+Light Direction: Rita Ferreira
+Model: Sveva 
+
 
 Initially, we scattered through unwanted attention. Then we turned inward, decompartmentalizing inner experiences while facing external inputs. Acting on it meant facing it alone, as individuals. But acting collectively was always implicit—bonding beyond insecurity, connecting aside from circumstantial meetups. Acting collectively is creating together: by us, from us, and for us exclusively.
 
-### From Prototype to Medium:
+### From Prototype to Medium
+
+![carnalismoszine](../../images/design studio 1/carnallismos3.JPG){ width="100%" }
 
 After developing a venting and confessional room (Carnallisms), the next logical stage was to advertise it. This translation transformed into a medium of creation itself—an expressionist zine titled "Carnal.lismos". The first segment focuses on translating daily objects into BDSM codes of expression, exploring how power dynamics operate both within and outside professional settings.
 
-### Collective Activation:
+### Collective Activation
 
 A dear friend living in Barcelona is currently finishing a project focused on immigrant queer entities passing through Barcelona in their personal or professional lives. During the first photoshoot, the team connected organically, and so did their intentions for the project. Creative sessions became a means to bond and share personal experiences through artistic expression.
 
-### Community & Contribution:
+### Community & Contribution
 
 This zine invites queer artists and practitioners in Barcelona to explore every medium within a fashion editorial approach. As collaborator and publisher, I mediate spaces where creative autonomy is prioritized. The queer community in Barcelona needs this activation because, despite the city's effervescent queer presence, there remains a need for autonomous platforms of creative resistance—spaces.
 
-### Collective Objectives:
+### Collective Objectives
 
 Through collaborative creative sessions, we build proximity and solidarity. Our objectives are creative resistance, community autonomy, and intimate circulation among community rather than algorithmic reach. By us, from us, for us.
