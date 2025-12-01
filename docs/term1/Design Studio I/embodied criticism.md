@@ -131,15 +131,9 @@ As explained before, the biggest upgrade would be a internal chat between Lilith
 In conclusion, the interface stands for an interconnection and methodology that faces the platform as an organism. Not just an interface, but also understanding how limitations of independent interactions can deviate from the discourse of technology as comprimizing privacy and dissociative from the physical sphere. They are interwined as the embodiment of a Post-binary lifestyle and state of mind. The act is about unleaching inner paralysing thoughts in order to self development. 
 
 ## Act 4
+![carnalismoszine1](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
 
-<div style="display: flex; gap: 10px; margin: 10px 0;">
-<div markdown="1" style="flex: 1;">
-![carnalismoszine](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
-</div>
-<div markdown="1" style="flex: 1;">
-![carnalismoszine](../../images/design studio 1/carnalismos2.JPG){ width="100%" }
-</div>
-</div>
+![carnalismoszine2](../../images/design studio 1/carnallismos2.JPG){ width="100%" }
 
 Featured Designer: Ivan Hunga Garcia
 Photographer: Mário Silva
@@ -151,7 +145,7 @@ Initially, we scattered through unwanted attention. Then we turned inward, decom
 
 ### From Prototype to Medium
 
-![carnalismoszine](../../images/design studio 1/carnallismos3.JPG){ width="100%" }
+![carnalismoszine3](../../images/design studio 1/carnallismos3.JPG){ width="100%" }
 
 After developing a venting and confessional room (Carnallisms), the next logical stage was to advertise it. This translation transformed into a medium of creation itself—an expressionist zine titled "Carnal.lismos". The first segment focuses on translating daily objects into BDSM codes of expression, exploring how power dynamics operate both within and outside professional settings.
 
