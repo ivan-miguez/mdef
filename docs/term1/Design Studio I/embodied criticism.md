@@ -133,8 +133,12 @@ In conclusion, the interface stands for an interconnection and methodology that 
 ## Act 4
 
 <div style="display: flex; gap: 10px; margin: 10px 0;">
-  <img src="../../images/design studio 1/carnallismos1.JPG" alt="carnalismoszine" style="width: 50%;"/>
-  <img src="../../images/design studio 1/carnalismos2.JPG" alt="carnalismoszine" style="width: 50%;"/>
+<div markdown="1" style="flex: 1;">
+![carnalismoszine](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
+</div>
+<div markdown="1" style="flex: 1;">
+![carnalismoszine](../../images/design studio 1/carnalismos2.JPG){ width="100%" }
+</div>
 </div>
 
 Featured Designer: Ivan Hunga Garcia
