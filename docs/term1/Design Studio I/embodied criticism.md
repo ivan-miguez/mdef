@@ -1,21 +1,52 @@
 # Embodied Criticism
 
-## Act 1
-### Manifesto
+## Act 5
 
-Might have embodied criticism way too personally. Although fetishization - and often objectification - have long been a subject inside the queer community, let alone the meaning of gayness or queerness as a keyword for someone's identity and sole archetype of existence. By standing in new territory, and some back and forth traveling, I took the opportunity to bring my Grindr interactions to the surface in order to evaluate the sense of community it can bring, but also the invasive and polarizing conducts based on ego, insecurity and - or - self neglect. 
+## Act 4
 
-The word Queer1 does not hold a light history, it dates back to the exclusion of the eccentric. Later associating eccentric or odd to sexual deviance outside the heteronormative. Therefore, queerness, as it is defined today, isn't a choice. But choosing to perform and apply it daily is a ritual to which consequences might apply according to different layers of gender performance, cultural norms and social endeavors. Each interaction, some more extensive than others, follows a pattern of expectation to which I can comply to follow and feed. The first law of improvised theatre is: Yes, and... an erotic fantasy, an easy (and unfulfilling) fuck or simply a filling to a frame of boredom. But these are only the negative. There are friendships, passionate moments and learning experiences that no curricular Sex-ed could have ever shown me. 
+<div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/fstbw/qgyp/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
-The social protocols leave a great deal of expectation to unguided management of emotions, traumas and morals. Leaving no space for debates that are sincere. In 50 of 160 Grindr interactions, from the last 20 days. One couldn't be more different than the other. I'm pretty in the eyes of some, ugly for the taste of others. And that my ego can take. But after some unsolicited nudes, I'm an open book surrounded by people in hiding. I get to see a fraction of unexplored, repressed identities manifested through kinks, harsh self-neglecting monologues and impatient faceless profiles. I'm a sex doll to some, a foot fetish to others, but never a partner once the sun rises. 
 
-The greatest examples, now missing from the message history, are the hardest to keep track. Solicitation, Scams and potential Stalkers act on the naive as prey. These feelings, as does fetishization, permeate the Cuir2 community, existing for and within it. Fetishization as being the reduction of a person to aspects of their body, identity or relationship structure. And as an individual, I run from and back to a language I understand and decode: Hate and Fear.
+![carnalismoszine1](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
 
-1. Dating the 16th century, the term "Queer" was associated with those who exhibited socially inappropriate behavior. As an umbrella term for "strange", "odd", "peculiar", or "eccentric". Later on, by the late 19th century, queer was beginning to gain a connotation of sexual deviance.
+![carnalismoszine2](../../images/design studio 1/carnallismos2.JPG){ width="100%" }
 
-2. Cuir is a latin interjection of what it means to be "Queer", outside the Anglo Saxon background and power subliminars
+Curated by Ivan Hunga Garcia
+Featured Designer: Haute Gardener
+Photographer: Mário Silva
+Light Direction: Rita Ferreira
+Model: Sveva 
 
-###**[GRINDR CHATS](https://youtube.com/shorts/EC8IXs358l4?feature=share)**
+
+Initially, we scattered through unwanted attention. Then we turned inward, decompartmentalizing inner experiences while facing external inputs. Acting on it meant facing it alone, as individuals. But acting collectively was always implicit—bonding beyond insecurity, connecting aside from circumstantial meetups. Acting collectively is creating together: by us, from us, and for us exclusively.
+
+### From Prototype to Medium
+
+![moodboard](../../images/design studio 1/moodboard_ph.PNG){ width="100%" }
+
+After developing a venting and confessional room (Carnallisms), the next logical stage was to advertise it. This translation transformed into a medium of creation itself—an expressionist zine titled "Carnal.lismos". The first segment focuses on translating daily objects into BDSM codes of expression, exploring how power dynamics operate both within and outside professional settings.
+
+### Collective Activation
+
+A dear friend living in Barcelona is currently finishing a project focused on immigrant queer entities passing through Barcelona in their personal or professional lives. During the first photoshoot, the team connected organically, and so did their intentions for the project. Creative sessions became a means to bond and share personal experiences through artistic expression.
+
+### Community & Contribution
+
+This zine invites queer artists and practitioners in Barcelona to explore every medium within a fashion editorial approach. As collaborator and publisher, I mediate spaces where creative autonomy is prioritized. The queer community in Barcelona needs this activation because, despite the city's effervescent queer presence, there remains a need for autonomous platforms of creative resistance—spaces.
+
+### Collective Objectives
+
+Through collaborative creative sessions, we build proximity and solidarity. Our objectives are creative resistance, community autonomy, and intimate circulation among community rather than algorithmic reach. By us, from us, for us.
+
+### Intersection of mental health and textile research
+
+Also in the Zine there is a display of my explorations with SCOBY as a biofilm. New microbiotic studies fascinate me when we look to the human body not as a element but an ecosystem. Full with microcolinies and transactions of fluids and chemical components. Both connected with the way our minds works. The way each person builds their lifestyle, it consequently affects its microbiome. Mindfulness procedures and Mental health emancipation have been intersected in my fields of interest: Queer studies, Identity in a post tech society and biotechnology as hacking the stage of healing.
+
+These categories have crossed paths in the way I explore my craft, to which I embody very personally. Emotions are implemented, sense of self and outake of the future I manifest and aim for. The artistic practice and research have craved for a Post-Binary future, beyond the segregation in between people, urban and rural, artificial and organic. The polarity list goes on. 
+
+As each Act goes by, there is a clean intention of reaching the phisicality and experiencing the body we live in, autentically, individually, collectivelly, unapogetically. The same sequence can also be seen as a centering exercise through social dissassociation and the paradox of Self within anonymity and community.
+
+After some research transpassing cyborg and symborg, mental health and the gut's microbiota; nanotechnology and biotechnology; the predomination of care, self recognition and self projection is deeply connected with our sense of beauty standarts and gender roles within societal discourse. It is natural to invision a future of both Eco-brutalism and Queerness standardization. Both aim for a clash into the culture of segregation and vertical organization
 
 
 ## Act 2 & 3
@@ -130,33 +161,20 @@ As explained before, the biggest upgrade would be a internal chat between Lilith
 
 In conclusion, the interface stands for an interconnection and methodology that faces the platform as an organism. Not just an interface, but also understanding how limitations of independent interactions can deviate from the discourse of technology as comprimizing privacy and dissociative from the physical sphere. They are interwined as the embodiment of a Post-binary lifestyle and state of mind. The act is about unleaching inner paralysing thoughts in order to self development. 
 
-## Act 4
-![carnalismoszine1](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
 
-![carnalismoszine2](../../images/design studio 1/carnallismos2.JPG){ width="100%" }
+## Act 1
+### Manifesto
 
-Featured Designer: Ivan Hunga Garcia
-Photographer: Mário Silva
-Light Direction: Rita Ferreira
-Model: Sveva 
+Might have embodied criticism way too personally. Although fetishization - and often objectification - have long been a subject inside the queer community, let alone the meaning of gayness or queerness as a keyword for someone's identity and sole archetype of existence. By standing in new territory, and some back and forth traveling, I took the opportunity to bring my Grindr interactions to the surface in order to evaluate the sense of community it can bring, but also the invasive and polarizing conducts based on ego, insecurity and - or - self neglect. 
 
+The word Queer1 does not hold a light history, it dates back to the exclusion of the eccentric. Later associating eccentric or odd to sexual deviance outside the heteronormative. Therefore, queerness, as it is defined today, isn't a choice. But choosing to perform and apply it daily is a ritual to which consequences might apply according to different layers of gender performance, cultural norms and social endeavors. Each interaction, some more extensive than others, follows a pattern of expectation to which I can comply to follow and feed. The first law of improvised theatre is: Yes, and... an erotic fantasy, an easy (and unfulfilling) fuck or simply a filling to a frame of boredom. But these are only the negative. There are friendships, passionate moments and learning experiences that no curricular Sex-ed could have ever shown me. 
 
-Initially, we scattered through unwanted attention. Then we turned inward, decompartmentalizing inner experiences while facing external inputs. Acting on it meant facing it alone, as individuals. But acting collectively was always implicit—bonding beyond insecurity, connecting aside from circumstantial meetups. Acting collectively is creating together: by us, from us, and for us exclusively.
+The social protocols leave a great deal of expectation to unguided management of emotions, traumas and morals. Leaving no space for debates that are sincere. In 50 of 160 Grindr interactions, from the last 20 days. One couldn't be more different than the other. I'm pretty in the eyes of some, ugly for the taste of others. And that my ego can take. But after some unsolicited nudes, I'm an open book surrounded by people in hiding. I get to see a fraction of unexplored, repressed identities manifested through kinks, harsh self-neglecting monologues and impatient faceless profiles. I'm a sex doll to some, a foot fetish to others, but never a partner once the sun rises. 
 
-### From Prototype to Medium
+The greatest examples, now missing from the message history, are the hardest to keep track. Solicitation, Scams and potential Stalkers act on the naive as prey. These feelings, as does fetishization, permeate the Cuir2 community, existing for and within it. Fetishization as being the reduction of a person to aspects of their body, identity or relationship structure. And as an individual, I run from and back to a language I understand and decode: Hate and Fear.
 
-![carnalismoszine3](../../images/design studio 1/carnallismos3.JPG){ width="100%" }
+1. Dating the 16th century, the term "Queer" was associated with those who exhibited socially inappropriate behavior. As an umbrella term for "strange", "odd", "peculiar", or "eccentric". Later on, by the late 19th century, queer was beginning to gain a connotation of sexual deviance.
 
-After developing a venting and confessional room (Carnallisms), the next logical stage was to advertise it. This translation transformed into a medium of creation itself—an expressionist zine titled "Carnal.lismos". The first segment focuses on translating daily objects into BDSM codes of expression, exploring how power dynamics operate both within and outside professional settings.
+2. Cuir is a latin interjection of what it means to be "Queer", outside the Anglo Saxon background and power subliminars
 
-### Collective Activation
-
-A dear friend living in Barcelona is currently finishing a project focused on immigrant queer entities passing through Barcelona in their personal or professional lives. During the first photoshoot, the team connected organically, and so did their intentions for the project. Creative sessions became a means to bond and share personal experiences through artistic expression.
-
-### Community & Contribution
-
-This zine invites queer artists and practitioners in Barcelona to explore every medium within a fashion editorial approach. As collaborator and publisher, I mediate spaces where creative autonomy is prioritized. The queer community in Barcelona needs this activation because, despite the city's effervescent queer presence, there remains a need for autonomous platforms of creative resistance—spaces.
-
-### Collective Objectives
-
-Through collaborative creative sessions, we build proximity and solidarity. Our objectives are creative resistance, community autonomy, and intimate circulation among community rather than algorithmic reach. By us, from us, for us.
+###**[GRINDR CHATS](https://youtube.com/shorts/EC8IXs358l4?feature=share)**
