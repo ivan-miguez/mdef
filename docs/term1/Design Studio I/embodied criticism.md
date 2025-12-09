@@ -4,21 +4,21 @@
 
 ## Act 4
 
-<div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/fstbw/qgyp/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
-
-
-![carnalismoszine1](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
-
 ![carnalismoszine2](../../images/design studio 1/carnallismos2.JPG){ width="100%" }
 
-Curated by Ivan Hunga Garcia
-Featured Designer: Haute Gardener
-Photographer: Mário Silva
-Light Direction: Rita Ferreira
-Model: Sveva 
+Curated by Ivan Hunga Garcia;
+Featured Designer: Haute Gardener;
+Photographer: Mário Silva;
+Light Direction: Rita Ferreira;
+Model: Sveva.
 
+<div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/fstbw/qgyp/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
-Initially, we scattered through unwanted attention. Then we turned inward, decompartmentalizing inner experiences while facing external inputs. Acting on it meant facing it alone, as individuals. But acting collectively was always implicit—bonding beyond insecurity, connecting aside from circumstantial meetups. Acting collectively is creating together: by us, from us, and for us exclusively.
+Initially, we scattered through unwanted attention. Then we turned inward, decompartmentalizing inner experiences while facing external inputs. Acting on it meant facing it alone, as individuals. But acting collectively was always implicit—bonding beyond insecurity, connecting aside from circumstantial meetups. Acting collectively is creating together: by us, from us, and for us exclusively. 
+
+In this visual exploration we dive into the fetishisation of bodies and objects based on context. Not just spacial but social and cultural. Each image reflects a personified and objectivied perspective of sensuality via Portraits and Bodegon. Canonically, sinuous and serpentine figures indicate that affirmation of sensuality. 
+
+So far this artistic expression is now a passive response and , even, intuitive. This is a response to the current sexualization of queer identities via affirmation and collective projection. As referenced before, the concept of fetishization is withnessed when an identity is reduced to aspects of their body or relationship structure. It is stereotypical. And a constant reminder of alienation and "otherness". Here we apply it as a force. Backing down the coping mechanisms, the masking and own it fully. Which and euphoric status is provoked. That is also one of the joys of executing custom designs and bespoke fashion. Working close to the individual and working intimately with body concerns, social perception and fantasy projections.
 
 ### From Prototype to Medium
 
@@ -40,13 +40,16 @@ Through collaborative creative sessions, we build proximity and solidarity. Our 
 
 ### Intersection of mental health and textile research
 
-Also in the Zine there is a display of my explorations with SCOBY as a biofilm. New microbiotic studies fascinate me when we look to the human body not as a element but an ecosystem. Full with microcolinies and transactions of fluids and chemical components. Both connected with the way our minds works. The way each person builds their lifestyle, it consequently affects its microbiome. Mindfulness procedures and Mental health emancipation have been intersected in my fields of interest: Queer studies, Identity in a post tech society and biotechnology as hacking the stage of healing.
+![carnalismoszine1](../../images/design studio 1/carnallismos1.JPG){ width="100%" }
+
+In the Zine there is a display of my explorations with SCOBY as a biofilm. New microbiotic studies fascinate me when we look to the human body not as a element but an ecosystem. Full with microcolinies and transactions of fluids and chemical components. Both connected with the way our minds works. The way each person builds their lifestyle, it consequently affects its microbiome. Mindfulness procedures and Mental health emancipation have been intersected in my fields of interest: Queer studies, Identity in a post tech society and biotechnology as hacking the stage of healing.
 
 These categories have crossed paths in the way I explore my craft, to which I embody very personally. Emotions are implemented, sense of self and outake of the future I manifest and aim for. The artistic practice and research have craved for a Post-Binary future, beyond the segregation in between people, urban and rural, artificial and organic. The polarity list goes on. 
 
 As each Act goes by, there is a clean intention of reaching the phisicality and experiencing the body we live in, autentically, individually, collectivelly, unapogetically. The same sequence can also be seen as a centering exercise through social dissassociation and the paradox of Self within anonymity and community.
 
-After some research transpassing cyborg and symborg, mental health and the gut's microbiota; nanotechnology and biotechnology; the predomination of care, self recognition and self projection is deeply connected with our sense of beauty standarts and gender roles within societal discourse. It is natural to invision a future of both Eco-brutalism and Queerness standardization. Both aim for a clash into the culture of segregation and vertical organization
+After some research transpassing cyborg and symborg, mental health and the gut's microbiota; nanotechnology and biotechnology; the predomination of care, self recognition and self projection is deeply connected with our sense of beauty standarts and gender roles within societal discourse. It is natural to invision a future of both Eco-brutalism and Queerness standardization. Both aim for a clash into the culture of segregation and vertical organization 
+
 
 
 ## Act 2 & 3
