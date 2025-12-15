@@ -2,6 +2,22 @@
 
 ## Act 5
 
+![mask](../../images/design studio 1/mask.jpg){ width="100%" }
+
+Within my background studying SCOBY as an option to latex and leather for a more regenerative approach to textiles, I’ll be applying the tools and knowledge of this master to explore the microbial and healing properties of this symbiotic culture (as a case study) and further develop other microbial cultures as living medicinal textiles. 
+         The natural and chemical phenomena already showcase healing powers on their own. Skin traumas like burns, inflammation, and scarring are some of the cases it can be applied to passively and actively. The healing works on the micro level, reflecting on the human scale.
+               In the meantime, while the biological testing and prototyping takes course, the concept of the Symborg rises as a body that is plural, an interchange and ecosystem on the micro(biotic) level. As a whole, it reflects on “human” wellbeing and behavioral tendencies. This is where the microbiota of the organs takes place, intersecting mental health and cognitive patterns.
+         This research aims to take an inside-out approach to design, prone to a post-binary categorization and literature of what it means to be human and an identity. As artifacts, there will be explorations of elements to be ingested as well as worn on external features.
+
+Post-binary(design)
+Micro(biotic)Activism
+(micro)BioticTherapy 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v2s3E1BXn_I?si=dCyMdS_6Nqt9pBEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
 ## Act 4
 
 ![carnalismoszine2](../../images/design studio 1/carnallismos2.JPG){ width="100%" }
