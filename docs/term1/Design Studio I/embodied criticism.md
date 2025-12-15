@@ -2,6 +2,7 @@
 
 ## Act 5
 
+### Artifact
 ![mask](../../images/design studio 1/mask.jpg){ width="100%" }
 
 Within my background studying SCOBY as an option to latex and leather for a more regenerative approach to textiles, I’ll be applying the tools and knowledge of this master to explore the microbial and healing properties of this symbiotic culture (as a case study) and further develop other microbial cultures as living medicinal textiles. 
@@ -15,7 +16,9 @@ This research aims to take an inside-out approach to design, prone to a post-bin
 ### statement
 
 Post-binary(design)
+
 Micro(biotic)Activism
+
 (micro)BioticTherapy 
 
 ### video 
