@@ -27,6 +27,8 @@ Micro(biotic)Activism
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v2s3E1BXn_I?si=dCyMdS_6Nqt9pBEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+The fifth act stands for a compilation of experiences that
+
 ### Why Skin treatment
 
 ![mask](../../images/design studio 1/mask.jpg){ width="100%" }
@@ -35,8 +37,7 @@ In paralel to the zine, i have been developing this protocol of a scoby applied 
 
 ### Under the Microscope
 
-![micro](../../images/design studio 1/micro.jpg){ width="50%" }
-![micro1](../../images/design studio 1/micro1.jpg){ width="50%" }
+![micro](../../images/design studio 1/micro.jpg){ width="50%" } ![micro1](../../images/design studio 1/micro1.jpg){ width="50%" }
 
 microscope images of the scoby mask
 
@@ -46,7 +47,9 @@ As part of the proposal, and within the form, there are some quesitons that high
 
 the responses are archived on this **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1xb1pvj6VP5T8OLrG6bN2vbdfyANZpqUm?usp=drive_link)** 
 
+### Brainstorming session
 
+![diagram](../../images/design studio 1/diagram.PNG){ width="100%" }
 
 ## Act 4
 
