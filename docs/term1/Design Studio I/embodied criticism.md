@@ -3,7 +3,7 @@
 ## Act 5
 
 ### Artifact
-![mask3](../../images/design studio 1/mask3.jpg){ width="100%" }
+![mask3](../../images/design studio 1/mask3.JPG){ width="100%" }
 
 Within my background studying SCOBY as an option to latex and leather for a more regenerative approach to textiles, I’ll be applying the tools and knowledge of this master to explore the microbial and healing properties of this symbiotic culture (as a case study) and further develop other microbial cultures as living medicinal textiles. 
         
@@ -13,7 +13,7 @@ In the meantime, while the biological testing and prototyping takes course, the 
        
 This research aims to take an inside-out approach to design, prone to a post-binary categorization and literature of what it means to be human and an identity. As artifacts, there will be explorations of elements to be ingested as well as worn on external features.
 
-![mask2](../../images/design studio 1/mask2.jpg){ width="100%" }
+![mask2](../../images/design studio 1/mask2.JPG){ width="100%" }
 
 ### statement
 
