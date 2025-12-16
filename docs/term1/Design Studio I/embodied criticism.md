@@ -37,7 +37,7 @@ In paralel to the zine, i have been developing this protocol of a scoby applied 
 
 ### Under the Microscope
 
-![micro](../../images/design studio 1/micro.jpg){ width="50%" } ![micro1](../../images/design studio 1/micro1.jpg){ width="50%" }
+![micro](../../images/design studio 1/micro.jpg){ width="100%" } ![micro1](../../images/design studio 1/micro1.jpg){ width="100%" }
 
 microscope images of the scoby mask
 
@@ -47,9 +47,11 @@ As part of the proposal, and within the form, there are some quesitons that high
 
 the responses are archived on this **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1xb1pvj6VP5T8OLrG6bN2vbdfyANZpqUm?usp=drive_link)** 
 
-### Brainstorming session
+### The Expanded Field Diagram 
 
-![diagram](../../images/design studio 1/diagram.PNG){ width="100%" }
+![diagram](../../images/design studio 1/expanded field - diagram.png){ width="100%" }
+
+This diagram was used to brainstorm ideas and concepts that alined with the different fields of interest. It definitely helped refining the approach to lead into the reald of BioticTherapy and Nano or Micro Activism.
 
 ## Act 4
 
