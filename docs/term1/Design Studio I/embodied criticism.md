@@ -33,6 +33,15 @@ Micro(biotic)Activism
 
 In paralel to the zine, i have been developing this protocol of a scoby applied to certain skin concearns. That project was on hold until recently. When Ayal shares his concearn and interest in act on his athlete's foot demaged skin. With him as the first tester, the protocol was subjected to alterations and atualizations along the way. although, so far, the use of scoby for skin treatment seems to be sucessfull. 
 
+## under the microscope
+
+![micro](../../images/design studio 1/micro.jpg){ width="50%" }
+![micro1](../../images/design studio 1/micro1.jpg){ width="50%" }
+
+microscope images of the scoby mask
+
+## case study
+
 As part of the proposal, and within the form, there are some quesitons that highligh how the treatment interacts and influences the lifestyle of the person. the access to the form was via this website, on the **[Biotic Skin Tab](https://ivan-miguez.github.io/mdef/project/case%20study/)**.
 
 the responses are archived on this **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1xb1pvj6VP5T8OLrG6bN2vbdfyANZpqUm?usp=drive_link)** 
