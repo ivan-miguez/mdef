@@ -3,15 +3,24 @@
 ## Swarming Technobiome
 
 ### Weak Signal Taro Prompts
+
 Restorative Justice, 
+
 Creative Dissent, 
+
 Privilege Breakdown
 
-### Ramdom Triggers: 
+
+### Areas of opportunity
+
 Equitable Systems, 
+
+### Ramdom Triggers: 
+
 Drone Swarms
 
 Life after technology A colony of nano (bio)tech being omnipresent in the maintenance and distribution of infrastructures, resources and services for the wellbeing of interpersonal and interspecies dynamics. This consists of an equitable system aiming for restorative justice as a proactive privilege breakdown.
+
 
 ## Research Question and WS Matches
 
