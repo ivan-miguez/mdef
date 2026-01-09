@@ -14,6 +14,7 @@ nav:
   - Biotic Skin:
       - Process: project/project.md
       - Case Study: "project/case study.md"
+      - Research Question: term2/Research Question.md
   - Deliverables :
       - Term 1:
           - Bootcamp: term1/Bootcamp.md
@@ -21,6 +22,7 @@ nav:
           - "Design Studio I": 
               - "Embodied Criticism": term1/Design Studio I/embodied criticism.md
           - "Living with your own ideas": term1/Living with your own ideas.md
+          - "(Fun)damentals for Future Makers": term1/(fun)damentals for Future Makers.md
           - "Unpacking Tech Systems": 
             - "Reflection and Zine": term1/Unpacking Tech Systems/Reflection and Zine.md
             - "Forensic Report - Apple Macbook": term1/Unpacking Tech Systems/Forensic Report - Apple Macbook.md
