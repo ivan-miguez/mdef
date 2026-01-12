@@ -77,9 +77,9 @@ theme:
     - navigation.tracking
 
 plugins:
-  - #search
-  - #git-revision-date-localized:
-      #fallback_to_build_date: true
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
 
 markdown_extensions:
   - extra
