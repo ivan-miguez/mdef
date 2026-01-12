@@ -13,7 +13,7 @@ Arduino IDE is a great tool to experiemnt with electronics and logic circuits. T
 
 ### Rhino
 
-![Rhinomockups](../images/fundamentals for future makers/silicone mold.JPG){ width="100%" }
+![Rhinomockups](../images/fundamentals for future makers/rhino1.png){ width="100%" }
 
 I arrived to barcelona with an easy understanding and flow with Fusion 360 and CAD. Never interacted Rhino once. But when introduced to the software, the language felt familiar and easy to follow due to previous experience with 3d modeling and technical drawing.
 
@@ -31,7 +31,7 @@ Laser Cutting not only is satisfying as it is very useful for prototyping. In th
 
 <iframe width="560" height="315" src="https://www.youtube.com/shorts/bWHS1U7a-pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![cnc](../images/fundamentals for future makers/silicone mold.JPG){ width="100%" }
+![cnc](../images/fundamentals for future makers/siliconshape.jpg){ width="100%" }
 
 
 Programing for CNC machines is very similar to laser cutting. Layerwise. When in Laser cutting we mainly focus on power intensity between Cutting, Engraving and Marking. In a CNC we have a range of tools — Mills and Drills — that by doing the same path would reach very different effects.
@@ -53,8 +53,6 @@ When it comes to 3d printing, there might be a lot of factors to learn as I get 
 Noting the PLA prototype was not the final artifact, the scale and angles of each shape were relevant factors for a smooth execution with the silicone and consequently any other composite like the gelatin foam.
 
 
-![message directed to the detective](../images/living with our own ideas/prosthesis 3.png){ width="100%" }
-
 ### Composites with Biomaterials
 
 <iframe width="560" height="315" src="https://youtube.com/shorts/X7fDjqYJhyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -63,9 +61,7 @@ Noting the PLA prototype was not the final artifact, the scale and angles of eac
 
 There is an infinite range and possibilities when it comes to biomaterial recipes. Each time, a composite holds an unique property due to the possible ranges within each recipe regarding color, flexibility and texture. In between testing with resin and woodstraw, we filled in the tile mold with a gelatin foam recipe, courtesy of Agnese. Which smoothness and bubbly texture fitted the universe of the "protect the dolls" univorn tile.
 
-![resinmix](../images/fundamentals for future makers/resinandstraw.jpg){ width="100%" }
-
-![resinmolding](../images/fundamentals for future makers/testswithresin.jpg){ width="100%" }
+![resinmix](../images/fundamentals for future makers/resinandstraw.jpg){ width="50%" } | ![resinmolding](../images/fundamentals for future makers/testswithresin.jpg){ width="50%" }
 
 ## TouchDesigner
 

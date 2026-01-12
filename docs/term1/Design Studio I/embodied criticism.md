@@ -103,7 +103,7 @@ After some research transpassing cyborg and symborg, mental health and the gut's
 
 
 
-## Act 2 & 3
+## Act 3
 ![head of medusa](../../images/design studio 1/head of medusa, peter rubens.jpg){ width="100%" }
 
 ###Post-Binary Studies
@@ -214,6 +214,62 @@ The playfull interface can be considered flashy to some public, the telegram is 
 As explained before, the biggest upgrade would be a internal chat between Lilith and the developer. It gives responsibility to the AI to preserve peoples privacy and data while treating each other as collaborators (and not a surface front page from user-developer)
 
 In conclusion, the interface stands for an interconnection and methodology that faces the platform as an organism. Not just an interface, but also understanding how limitations of independent interactions can deviate from the discourse of technology as comprimizing privacy and dissociative from the physical sphere. They are interwined as the embodiment of a Post-binary lifestyle and state of mind. The act is about unleaching inner paralysing thoughts in order to self development. 
+
+
+## Act 2
+
+### Hypothesis no.1
+
+Lilith 
+
+The most powerful luxury is privacy. The social and the private behavior of a person is usually distinct from one another. In this Hypothesis, anonymity is key to self expression in a world dense with data collection, geographic tracking and user reports. The trading of data in an underlying practice of the internet. 
+
+When ads are synchronized with daily conversations, there is a small amount of space for surveillance. In this context, everyone aims to be anonymous, the stardom of influencing lost its spark in an oversaturated run for virality.  Low-key is a trend. Overprotectiveness of your data is a trend. As is the fall of social media.
+
+#### Prototype
+
+An encrypted app when no data or history is collected on a server. This app is a venting machine. Not a substitute of psychological procedures but a day-to-day easy-access ai-character. 
+
+Here you can share doubts, thoughts, definitions, secrets. And no other information will be associated with you as an individual. Closing the tab is equivalent to closing a conversation. There is no way back. The interaction is instant. The erasure of data is immediate. 
+
+There are subjects difficult to touch in the wrong environment. This is a space to ease your inner world. Rumble and invest in your curiosity within yourself. Preparing you to blossom.
+This AI is research based on psychology and social studies as it is aware of daily news. The data it retains is knowledge. 
+
+To do this prototype, the rooms platform was used in order to develop a game-like experience. 
+
+
+### Hypothesis no2
+
+Yassification 
+
+I’m tired of the victimhood secluded in segregational acts. This hypothesis instigates an active presence of the discriminated communities in the discomfort. Minimizing it by standardizing the queer existence in the public eye. Boosted by the sense of community, the search for safe spaces is usually a shot at one's foot. 
+
+Centralizing places of confort, creates an idealized bubble, to which returning to the real world just makes it more painful. This hypothesis highlights queerness in the public space beyond the month of July. It’s consistent, organized and collective.
+
+#### Prototype
+
+Yassification is a non profit association, the elements of this group aim to organize public events and appearances in so called heteronormative spaces. One person might feel uncomfortable in the middle of a setting like it. But the crowd holds the power to create its space. Cordially and without conflict, normalizing queer behaviour is something to be done in packs. 
+
+Mouth to mouth, personal invites and cultural curation are key to the well-function of such initiatives. Having emotional followups about the security of each element is equally important. 
+Decentralizing the queer experience from the inner spaces as well as decentralizing businesses that exclude them.
+
+
+### Hypothesis no3
+
+Post-binary Culture
+
+In the English speaking world, non binary vocabulary is old news. Portugal, by the other hand, is still resistant to its blending in the cultural rest we witness today. Non-binary linguistic extension is still a counterculture to the social sphere displayed in the Portuguese scene. 
+
+Institucionalizing non-binary existence is mandatory to the extension of expression in a conventional or professional setting. The grey area is an uncomfortable limbo in an archetypal structure. 
+
+
+#### Prototype
+
+A Portuguese Post-Binary publishing house is a natural step to democratisation and expansion of queer narratives onto the collective imagination. The structure of this publishing house follows 3 rules. Proclaiming and affirming a linguistic agreement by the use of non binary grammatical sequences. 
+
+Funding the scale of non-heteronormative plots, including asexual perspectives to romance and world perspective. Funding essays and studies on queer history, ways of living and ancestral erased experiences.
+
+Post-binary is the notion of a society that surpassed the binary codes to living. Like quantum computing, a fluid relationship with existing and communicating is applied to the new codes of society. 
 
 
 ## Act 1
