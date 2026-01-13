@@ -2,11 +2,9 @@
 
 ## Inputs and Outputs with Barduino
 
-![usingthebarduino](../images/fundamentals for future makers/silicone mold.JPG){ width="100%" }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JFvwZGMPTI?si=KK453x5Xclqv3x6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Arduino IDE is a great tool to experiemnt with electronics and logic circuits. The barduino and learning how to use is was essencial for further project thinking regarding possibilities in upcycling electronic components.
-
-
 
 
 ## 2D Design and Fabrication
@@ -21,15 +19,12 @@ The software and methods for laser cutting and CNC highlighted the significance 
 
 ### Laser Cutting
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/7SjBTVf_70k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![lasercuttedbox](../images/fundamentals for future makers/lasercuttedbox.jpg){ width="100%" }
 
-![Lasercutting](../images/fundamentals for future makers/silicone mold.JPG){ width="100%" }
 
 Laser Cutting not only is satisfying as it is very useful for prototyping. In this class it was the starting process for the casting of the tile by designing the conteiner and external features of the artifact. Later was also very useful in exercises of Unpacking Tech Systems.
 
 ### CNC
-
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/bWHS1U7a-pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -54,15 +49,15 @@ Noting the PLA prototype was not the final artifact, the scale and angles of eac
 
 ### Composites with Biomaterials
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/X7fDjqYJhyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zF1tUz8yhg?si=2AbRzc4l_ce2eEyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 There is an infinite range and possibilities when it comes to biomaterial recipes. Each time, a composite holds an unique property due to the possible ranges within each recipe regarding color, flexibility and texture. In between testing with resin and woodstraw, we filled in the tile mold with a gelatin foam recipe, courtesy of Agnese. Which smoothness and bubbly texture fitted the universe of the "protect the dolls" univorn tile.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfH5q9SD5GQ?si=KeRylGalLuG16lNT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ![resinmix](../images/fundamentals for future makers/resinandstraw.jpg){ width="50%" } | ![resinmolding](../images/fundamentals for future makers/testswithresin.jpg){ width="50%" }
 
 ## TouchDesigner
-
-![filling](../images/fundamentals for future makers/fill.JPG){ width="100%" }
 
 I'm very entusiastic about using Touch Designer in the future, after grouping all of these samples regarding electronics and structures. This software can boost any project into a more immersive experience.
