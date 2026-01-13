@@ -56,7 +56,7 @@ There is an infinite range and possibilities when it comes to biomaterial recipe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qfH5q9SD5GQ?si=KeRylGalLuG16lNT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-![resinmix](../images/fundamentals for future makers/resinandstraw.jpg){ width="50%" } | ![resinmolding](../images/fundamentals for future makers/testswithresin.jpg){ width="50%" }
+![resinmix](../images/fundamentals for future makers/gelatin foam tile.JPG){ width="100%" } 
 
 ## TouchDesigner
 
