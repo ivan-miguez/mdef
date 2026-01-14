@@ -26,7 +26,7 @@ Laser Cutting not only is satisfying as it is very useful for prototyping. In th
 
 ### CNC
 
-
+![woodframe](../images/fundamentals for future makers/woodframe.jpg){ width="100%" }
 
 Programing for CNC machines is very similar to laser cutting. Layerwise. When in Laser cutting we mainly focus on power intensity between Cutting, Engraving and Marking. In a CNC we have a range of tools — Mills and Drills — that by doing the same path would reach very different effects.
 
