@@ -1,0 +1,178 @@
+/* JotForm Custom CSS to match website theme */
+/* Add this in JotForm Dashboard: Form Designer → Styles → Inject Custom CSS */
+
+/* Import Averia Serif Libre font */
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300;400;700&display=swap');
+
+/* Apply custom font and colors to the entire form */
+.form-all {
+  font-family: 'Averia Serif Libre', serif !important;
+  color: rgb(222, 222, 209) !important;
+  background-color: #616161 !important;
+}
+
+/* Form container background */
+.form-container {
+  background-color: #616161 !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Form wrapper background - remover/ajustar moldura */
+.form-wrapper {
+  background-color: #616161 !important;
+  border: none !important;
+  border-color: #616161 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+/* Remover molduras e bordas do formulário */
+.form-all,
+.form-container,
+.form-wrapper,
+.form-body,
+.form-section {
+  border: none !important;
+  border-color: #616161 !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* Remover bordas específicas */
+.form-all *,
+.form-section * {
+  border-color: transparent !important;
+}
+
+/* Ajustar bordas dos elementos internos */
+.form-line {
+  border-top-color: rgba(222, 222, 209, 0.2) !important;
+  border-bottom: none !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+
+/* All form elements text color */
+.form-label,
+.form-label-top,
+.form-label-left,
+.form-label-right,
+.form-sub-label,
+.form-sub-label-content,
+.form-line,
+.form-input,
+.form-textarea,
+.form-select,
+.form-checkbox,
+.form-radio,
+.form-button,
+.form-header-group,
+.form-header-title,
+.form-all {
+  color: rgb(222, 222, 209) !important;
+  font-family: 'Averia Serif Libre', serif !important;
+}
+
+/* Títulos - corrigir cor azul escuro */
+.form-header,
+.form-header-title,
+.form-header-group,
+.form-header-group-title,
+.form-title,
+h1, h2, h3, h4, h5, h6,
+.form-section-title,
+.form-section-header,
+.form-question-title {
+  color: rgb(222, 222, 209) !important;
+  font-family: 'Averia Serif Libre', serif !important;
+}
+
+/* Opções de escolha única (radio buttons) - corrigir cor azul escuro */
+.form-radio-label,
+.form-radio-option,
+.form-radio-option-label,
+.form-radio-option-text,
+.form-checkbox-label,
+.form-checkbox-option,
+.form-checkbox-option-label,
+.form-checkbox-option-text,
+label[for*="radio"],
+label[for*="checkbox"] {
+  color: rgb(222, 222, 209) !important;
+  font-family: 'Averia Serif Libre', serif !important;
+}
+
+/* Radio buttons e checkboxes - cor quando selecionados */
+input[type="radio"]:checked + label,
+input[type="checkbox"]:checked + label,
+.form-radio-option input:checked + .form-radio-option-label,
+.form-checkbox-option input:checked + .form-checkbox-option-label {
+  color: rgb(222, 222, 209) !important;
+}
+
+/* Input fields background and styling */
+.form-textbox,
+.form-textarea,
+.form-dropdown {
+  background-color: #bdbdbd !important;
+  color: rgb(222, 222, 209) !important;
+  border-color: rgb(222, 222, 209) !important;
+  font-family: 'Averia Serif Libre', serif !important;
+}
+
+/* Buttons styling */
+.form-button,
+.form-submit-button {
+  background-color: #616161 !important;
+  color: rgb(222, 222, 209) !important;
+  border-color: rgb(222, 222, 209) !important;
+  font-family: 'Averia Serif Libre', serif !important;
+}
+
+/* Button hover state */
+.form-button:hover,
+.form-submit-button:hover {
+  color: rgb(30, 30, 30) !important;
+  background-color: rgb(222, 222, 209) !important;
+}
+
+/* Forçar cor em todos os elementos que possam estar azuis */
+.form-link,
+.form-help,
+.form-description,
+.form-question-text,
+.form-question-title,
+.form-label-text,
+.form-text,
+.form-text-answer {
+  color: rgb(222, 222, 209) !important;
+}
+
+/* Específico para remover cor azul de links e textos */
+.form-all a,
+.form-all a:visited,
+.form-all a:link {
+  color: rgb(222, 222, 209) !important;
+}
+
+.form-all a:hover {
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Remover qualquer fundo branco ou claro */
+.form-body,
+.form-section,
+.form-page,
+.form-page-break {
+  background-color: #616161 !important;
+  background: #616161 !important;
+}
+
+/* Garantir que o iframe não tenha borda */
+iframe {
+  border: none !important;
+  background-color: #616161 !important;
+}
+
