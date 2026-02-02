@@ -2,4 +2,4 @@
 
 This page has moved.
 
-- **New page**: [Problematize Narrative](../problematizenarratives/)
+- **New page**: [Problematize Narrative](problematizenarratives.md)
