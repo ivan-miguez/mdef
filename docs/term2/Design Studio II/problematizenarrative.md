@@ -1,5 +1,3 @@
-# Problematize Narrative
-
 <!--
 This page is kept for backwards compatibility.
 The canonical content lives in `problematizenarratives.md`.
