@@ -1,6 +1,5 @@
-<!--
-This page is kept for backwards compatibility.
-The canonical content lives in `problematizenarratives.md`.
--->
+# Problematize Narrative
 
---8<-- "term2/Design Studio II/problematizenarratives.md"
+This page has moved.
+
+- **New page**: [Problematize Narrative](../problematizenarratives/)
