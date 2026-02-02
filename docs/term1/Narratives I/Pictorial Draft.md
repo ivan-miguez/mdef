@@ -5,7 +5,7 @@ hide:
 
 # Pictorial Draft
 
-![reference](../../images/Narratives I/moodboard.png){ width="100%" }
+![reference](../../images/narratives I/moodboard.png){ width="100%" }
 
 
 My research is focused on the medicinal symbiotic relationship between textiles and the human body and skin. Incorporating surfaces as living collaborative beings in the age of post-cyborg contexts. Therefore, exploring what it means to be a symborg, the publication will be a compilation of solid capsules through 3dprinting, embossing and engraving allowing the Microcultures to develop and exist in the inside of such hard pages. 

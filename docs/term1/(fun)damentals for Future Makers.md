@@ -11,7 +11,7 @@ Arduino IDE is a great tool to experiemnt with electronics and logic circuits. T
 
 ### Rhino
 
-![Rhinomockups](../images/fundamentals for future makers/rhino1.JPG){ width="100%" }
+![Rhinomockups](../images/fundamentals for future makers/rhino1.png){ width="100%" }
 
 I arrived to barcelona with an easy understanding and flow with Fusion 360 and CAD. Never interacted Rhino once. But when introduced to the software, the language felt familiar and easy to follow due to previous experience with 3d modeling and technical drawing.
 
