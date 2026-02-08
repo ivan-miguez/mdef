@@ -12,7 +12,7 @@ Subtitle: Living Textiles as a multispecies Symbiotic Gate to the Post Binary
 
 ### Spectrum of Symborgian Constellations
 
-![spectrumempty](../../images/design studio 2/spectrum){ width="100%" }
+![spectrumempty](../../images/design studio 2/spectrum.png){ width="100%" }
 
 ### Guidelines: 
 
