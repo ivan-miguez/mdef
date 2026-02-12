@@ -39,6 +39,8 @@ nav:
 
      
       - Term 2:
+          - "Design Studio II": 
+             -  "Problematize": term2/Design Studio II/problematize.md
           - "Design Studio I": term2/Design Studio I/Design Studio I.md
           - "Narratives II": term2/Narratives II/Narratives II.md
           - "Extended Inteligences II": term2/Extended Inteligences II/Extended Inteligences II.md
