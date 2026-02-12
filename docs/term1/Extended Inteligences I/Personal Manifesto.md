@@ -5,7 +5,25 @@ hide:
 
 # Personal Manifesto
 
-## Title
+## How Big tech and AI will not change the Extractive Mindset
+
+There is no surprise AI has been marketed as a servant. Contemporary cosmopolitan life is defined by a structure of interchangeable services. Which holds a sequence of value, a competitive social climb where each task is replaced with human labor. Nowadays, Artificial Labor. 
+
+The brutally silent hierarchy, determined by context, culture and legacy, will only be enhanced with the mindset we develop these algorithms. Tech is not communist, its late-stage capitalism lobbying data, jobs and authority.  
+This discourse is not about Artificial Intelligence. It is about legislation, regulation, power dynamics and authoritarianism. The history alongside tech is not pristine. And once we agree on that statement: What would be the stage of technology without the concept of war, expansion and surveillance? 
+
+Would radio exist without it? Would telephones? 
+
+What is the ultimate purpose of AI? Underlying casual meme culture of generated images and celebrity impersonations? — The lack of plagiarism ethics is already telling — What is beyond the submissive aptitude of the software? It still enforces a western knowledge perspective. It is still western-centric. I wonder if it will ever be aware of the human complexity and application of knowledge… or will it just enforce the narrative of a (not so) post-colonial civilization chapter. 
+
+What is intelligence without a point of view and agency? Will AI forever be hostage of biomimicking human peasantry? Artificial labor? And now that it exists, I’m fascinated how it shapes human-on-human interactions. Ways of writing, ways of communication and expression. It is standardizing personal behaviour, as it is intertwined with existential doubts. AI is not an external entity, it is a result of our insecurities and fragilities as a social being. 
+
+I don't want to standardize my art or my narrative in this world. But this discourse does not start with AI, it starts with cultural discourse, educational discourse, digital discourse. It starts with skepticism and the intentional look for information. It started when I was first introduced to Portugal as a “kind colonizer”, it started when I first heard a homophobic or racist joke, it was when I was first condemned for playing with a doll, caucasian or not.
+
+All of these actions were executed by humans before and after using the tech we have access today. One does not crave awareness if it is not in one’s favor. Which is the main reason why algorithms of today make an interface so addictive. AI is not the threat, but the developers behind it. 
+
+This text is a provocation to them.
+
 
 
 ## Process
