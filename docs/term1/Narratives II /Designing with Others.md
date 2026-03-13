@@ -19,11 +19,11 @@ Human extensions, mental and physical, usually are a reaction to the craving for
 
 
 
-![pieces to assemble the prototype](../images/living with our own ideas/proto 1 pieces.JPG){ width="100%" }
+![pieces to assemble the prototype](../../images/living with our own ideas/proto 1 pieces.JPG){ width="100%" }
 
-![unmounted components](../images/living with our own ideas/proto 1 unmounted.JPG){ width="100%" }
+![unmounted components](../../images/living with our own ideas/proto 1 unmounted.JPG){ width="100%" }
 
-![prototype mounted](../images/living with our own ideas/prototype 1 mounted.JPG){ width="100%" }
+![prototype mounted](../../images/living with our own ideas/prototype 1 mounted.JPG){ width="100%" }
 
 
 
@@ -42,11 +42,11 @@ See video of the **[SIMULATION](https://youtube.com/shorts/k5SWnX4CmLc)** and ot
 
 ## Prosthesis no.2
 
-![prototype](../images/living with our own ideas/proto 2.1.JPG){ width="100%" }
+![prototype](../../images/living with our own ideas/proto 2.1.JPG){ width="100%" }
 
-![prototype on blazer pocket](../images/living with our own ideas/proto2.2.JPG){ width="100%" }
+![prototype on blazer pocket](../../images/living with our own ideas/proto2.2.JPG){ width="100%" }
 
-![Close up](../images/living with our own ideas/proto 2.3 closeup.jpg){ width="100%" }
+![Close up](../../images/living with our own ideas/proto 2.3 closeup.jpg){ width="100%" }
 
 
 A great amount of sparkly things came across my way as I was heading home. From copper thread, to chains, or earrings. I assembled my “Diary of a Crow” with unreclaimed objects, due to the fact that I saw potential in them. 
@@ -64,7 +64,7 @@ See video of the **[SIMULATION](https://youtube.com/shorts/QqqafylpkTs)**
 
 ### Subject
 
-![message directed to the detective](../images/living with our own ideas/prosthesis 3.png){ width="100%" }
+![message directed to the detective](../../images/living with our own ideas/prosthesis 3.png){ width="100%" }
 
 
 I took the chance of being a subject of an investigation to strip away my prosthesis of convenience and privacy. As the hour passed, my physical presence was a decoy to the presence carried online. 
