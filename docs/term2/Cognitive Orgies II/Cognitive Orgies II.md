@@ -1,6 +1,6 @@
 # Cognitive Orgies II
 
-![alginate string](../../images/cognitive orgies/trays.heic){ width="100%" }
+![alginate string](../../images/cognitive orgies/trays.jpg){ width="100%" }
 
 ## hackster.io report
 
