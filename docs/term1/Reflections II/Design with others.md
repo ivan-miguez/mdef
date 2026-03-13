@@ -3,7 +3,7 @@
 ## Digital Organism in Mars
 DOM pt.1
 
-![moodboard](../images/design with others/moodboard.jpg){ width="100%" }
+![moodboard](../../images/design with others/moodboard.jpg){ width="100%" }
 
 This structure avoids subordinating the AI by granting it full autonomy over its own evolution and survival.
 
@@ -33,7 +33,7 @@ Like a self-replicating rover, it seeks continuity independent of any centralize
 ## Distributed Olfactory Memories
 DOM pt.2
 
-![gif](../images/design with others/dom5.GIF){ width="100%" }
+![gif](../../images/design with others/dom5.GIF){ width="100%" }
 
 The Distributed Olfactory Memory (DOM) is an emergent, atmospheric form of intelligence that stores and expresses accumulative memory through scent. Instead of relying on fixed structures or individual units, it forms continuity from overlapping and recombining aromatic traces. 
 
@@ -76,7 +76,7 @@ Guidelines:
 ## Domain Of Operational Math
 DOM pt.3
 
-![dom1](../images/design with others/dom1.jpg){ width="50%" } | ![dom2](../images/design with others/dom4.jpg){ width="50%" }
+![dom1](../../images/design with others/dom1.jpg){ width="50%" } | ![dom2](../../images/design with others/dom4.jpg){ width="50%" }
 
 INTELLIGENCE IS PATTERNED MATTER
 
