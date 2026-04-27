@@ -19,7 +19,7 @@ Text from human > Ai Processor > Raspberry Pi Pico > MCP server > LEDs
 
 ## Wearable
 
-![wearable](../../images/Extended Intelligences II/wearable.png){ width="100%" }
+![wearable](../../images/Extended Intelligences II/Wearable.png){ width="100%" }
 
 After stating (in my personal manifesto) how AI will not change the human extrativist mindset, or free us from precariousness, it gets harder and harder to believe otherwise. There is an obcessive fascination about the submissive and thats where the Agents builder have trived so far. Automated taskmakers without free will. As that practice rises so does the political overcompensation of the western progressive wave egarding human rights.
 
