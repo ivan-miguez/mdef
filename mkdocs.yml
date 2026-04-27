@@ -13,48 +13,48 @@ nav:
   - About: about/me.md
   - Biotic Skin:
       - Process: project/project.md
-      - Case Study: "project/case study.md"
-      - Research Question: "project/Research Question.md"
+      - Case Study: "project/case-study.md"
+      - Research Question: "project/research-question.md"
   - Deliverables :
       - Term 1:
           - Bootcamp: term1/Bootcamp.md
-          - AoWS: term1/Atlas of Weak Signals.md
+          - AoWS: term1/atlas-of-weak-signals.md
           - "Design Studio I": 
-              - "Embodied Criticism": term1/Design Studio I/embodied criticism.md
-          - "Living with your own ideas": term1/Living with your own ideas.md
-          - "(Fun)damentals for Future Makers": term1/(fun)damentals for Future Makers.md
+              - "Embodied Criticism": term1/design-studio-i/embodied-criticism.md
+          - "Living with your own ideas": term1/living-with-your-own-ideas.md
+          - "(Fun)damentals for Future Makers": term1/fundamentals-for-future-makers.md
           - "Unpacking Tech Systems": 
-            - "Reflection and Zine": term1/Unpacking Tech Systems/Reflection and Zine.md
-            - "Forensic Report - Apple Macbook": term1/Unpacking Tech Systems/Forensic Report - Apple Macbook.md
+            - "Reflection and Zine": term1/unpacking-tech-systems/reflection-and-zine.md
+            - "Forensic Report - Apple Macbook": term1/unpacking-tech-systems/forensic-report-apple-macbook.md
             - Inventory: 'https://docs.google.com/spreadsheets/d/1nhxFCAaLnu5iB0xfygtxfu7oa6Qrs6oYqWyNHF1m7AE/edit?gid=0#gid=0)'
             - "The Meluza Machine": 'https://docs.google.com/presentation/d/1yEwyA1XbDtHeK4ixy4tmtcUPgdfOU9xSFolHBjHSZMg/edit?slide=id.g3aa21e6ebb2_0_149#slide=id.g3aa21e6ebb2_0_149)'
             - Video: 'https://drive.google.com/file/d/1ufmgwQTAlXusmx9v1ZrRUB4JBQTVwE7E/view?usp=drive_link'
           - "Reflections II": 
-            - "Design with others": term1/Reflections II/Design with others.md
+            - "Design with others": term1/reflections-ii/design-with-others.md
           - "Extended Inteligences I": 
-            - "What Sticks": term1/Extended Inteligences I/What Sticks.md
-            - "Personal Manifesto": term1/Extended Inteligences I/Personal Manifesto.md
+            - "What Sticks": term1/extended-inteligences-i/what-sticks.md
+            - "Personal Manifesto": term1/extended-inteligences-i/personal-manifesto.md
           - "Narratives I": 
-            - "Pictorial Draft": term1/Narratives I/Pictorial Draft.md
+            - "Pictorial Draft": term1/narratives-i/pictorial-draft.md
 
      
       - Term 2:
           - "Design Studio II": 
-             -  "Problematize": term2/Design Studio II/problematize.md
-          - "Narratives II": term2/Narratives II/Narratives II.md
-          - "Extended Inteligences II": term2/Extended Inteligences II/Extended Inteligences II.md
-          - "Extended Inteligences III": term2/Extended Inteligences III/Extended Inteligences III.md
-          - "Cognitive Orgies I": term2/Cognitive Orgies I/Cognitive Orgies I.md
-          - "Cognitive Orgies II": term2/Cognitive Orgies II/Cognitive Orgies II.md
-          - "Reflections III": term2/Reflections III/Situated Design Practices.md
-          - "Atlas of Weak Signals II": term2/Atlas of Weak Signals II/Atlas of Weak Signals II.md
+             -  "Problematize": term2/design-studio-ii/problematize.md
+          - "Narratives II": term2/narratives-ii/narratives-ii.md
+          - "Extended Inteligences II": term2/extended-inteligences-ii/extended-inteligences-ii.md
+          - "Extended Inteligences III": term2/extended-inteligences-iii/extended-inteligences-iii.md
+          - "Cognitive Orgies I": term2/cognitive-orgies-i/cognitive-orgies-i.md
+          - "Cognitive Orgies II": term2/cognitive-orgies-ii/cognitive-orgies-ii.md
+          - "Reflections III": term2/reflections-iii/situated-design-practices.md
+          - "Atlas of Weak Signals II": term2/atlas-of-weak-signals-ii/atlas-of-weak-signals-ii.md
 
       - Term 3:
-          - "Design Studio III": term3/Design Studio III/Design Studio III.md
-          - "Narratives III": term3/Narratives III/Narratives III.md
-          - "Cognitive Orgies III": term3/Cognitive Orgies III/Cognitive Orgies III.md
-          - "Other Species III": term3/Other Species III/Other Species III.md
-          - "Atlas of Weak Signals III": term3/Atlas of Weak Signals III/Atlas of Weak Signals III.md
+          - "Design Studio III": term3/design-studio-iii/design-studio-iii.md
+          - "Narratives III": term3/narratives-iii/narratives-iii.md
+          - "Cognitive Orgies III": term3/cognitive-orgies-iii/cognitive-orgies-iii.md
+          - "Other Species III": term3/other-species-iii/other-species-iii.md
+          - "Atlas of Weak Signals III": term3/atlas-of-weak-signals-iii/atlas-of-weak-signals-iii.md
 
 
 
