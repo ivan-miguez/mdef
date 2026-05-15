@@ -1,8 +1,19 @@
----
-hide:
-    - toc
----
+# AoWS II
 
-# Bootcamp
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Weak Signals from Term 1
+
+![AoWS](../../term2/Atlas of Weak Signals II/AoWS2526_1){ width="100%" }
+
+## Triggers
+
+![AoWS](../../term2/Atlas of Weak Signals II/AoWS2526_2){ width="100%" }
+
+## Opportunities
+
+![AoWS](../../term2/Atlas of Weak Signals II/AoWS2526_3){ width="100%" }
+
+## Weak Signals Cluster
+
+![AoWS](../../term2/Atlas of Weak Signals II/AoWS2526_4){ width="100%" }
+

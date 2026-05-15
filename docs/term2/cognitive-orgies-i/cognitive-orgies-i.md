@@ -1,6 +1,6 @@
 # Cognitive Orgies I
 
-![wireable](../../images/cognitive orgies/aura.heic){ width="100%" }
+![wireable](../../images/cognitive orgies/aura.JPG){ width="100%" }
 
 ## hackster.io report
 
